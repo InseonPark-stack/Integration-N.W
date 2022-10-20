@@ -1,0 +1,13 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": "[j|t]s",
+    "ignore": [
+        "**/*.test.ts",
+        "**/*.spec.ts",
+        "node_modules",
+        "src/views/*"
+    ],
+    "exec": "yarn develop"
+}
