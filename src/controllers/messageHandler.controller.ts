@@ -7,12 +7,17 @@
 import { Response, Request } from 'express'
 import jwt from 'jsonwebtoken'
 import dotenv from 'dotenv'
-import queryString from 'node:querystring'
+import queryString from 'queryString'
 import environment from '../configs/environment'
 import generateToken from '../utils/jwtGenerate'
 import axios, { AxiosInstance } from 'axios'
 import templateString from '../services/templateString'
 import templateNaver from '../services/templateNaver'
+import templateButton from '../services/templateButton'
+import templateCarousel from '../services/templateCarousel'
+import templateCarouselImages from '../services/templateCarouselImage'
+import templateList from '../services/templateList'
+import { arrayBuffer } from 'stream/consumers'
 dotenv.config()
 
 declare let process: {
@@ -151,22 +156,133 @@ class CallBackLineWorks {
                 },
             })
             const response = data.data.data
+            console.log('response : ' + response)
             console.log('data: ', data.data)
-            let valueTemplate: any
 
-            for (let i = 0; i < response.length; i++) {
-                const data = response[i]
-                const val = data.val
-                console.log('val: ' + val)
-                try {
-                    const format = JSON.parse(val)
-                    valueTemplate = format
-                    console.log('formatted: ', valueTemplate)
-                    await templateNaver(valueTemplate, userId, token)
-                } catch (error) {
-                    await templateString(val, userId, token)
+
+            const solve = async(data: any) => {
+                for(let i = 0; i < data.length; i++){
+                    let val = data[i].val
+                    try {                    
+                        if(typeof(val) === 'string' && val.includes('flex') && val.includes('language')){
+                            const format = JSON.parse(val)
+                            val = format
+                        }else{
+                            const format = JSON.stringify(val)
+                            console.log('JSON 확인 차 : ' + format)
+                        }
+                        if (val.content && val.content.type === 'flex'){
+                            await templateNaver(val, userId, token)
+                        }
+                        else {
+                            await templateString(val, userId, token)
+                        }                    
+                    } catch (error) {
+                        console.log(error)
+                    }
                 }
             }
+
+            solve(response)
+
+            // const delay = async(data: any) => {
+            //     return new Promise(async () => {
+            //         let val = data.val
+            //         try {                    
+            //             if(typeof(val) === 'string' && val.includes('flex') && val.includes('language')){
+            //                 const format = JSON.parse(val)
+            //                 val = format
+            //             }else{
+            //                 const format = JSON.stringify(val)
+            //                 console.log('JSON 확인 차 : ' + format)
+            //             }
+    
+            //             if (val.content && val.content.type === 'flex'){
+            //                 await templateNaver(val, userId, token)
+            //             }
+            //             else {
+            //                 await templateString(data.val, userId, token)
+            //             }
+            //             setTimeout(() => {
+
+            //             },2000)                        
+            //         } catch (error) {
+            //             console.log(error)
+            //         }
+            //     })
+            //   }
+
+            // const callAPI = async (list: any) => {
+            //     console.log("Start")
+            //     const promises = list.map(async (data : any) => {
+            //         return await delay(data)
+            //         .then(() => data)
+            //     })
+                
+            //     const results = await Promise.all(promises)
+            //     results.forEach(data => console.log(data))
+            // }
+
+            // callAPI(response);
+
+            // response.forEach(async(data: any, index: Number) => {
+            //     let val = data.val
+            //     try {                    
+            //         if(typeof(val) === 'string' && val.includes('flex') && val.includes('language')){
+            //             const format = JSON.parse(val)
+            //             val = format
+            //         }else{
+            //             const format = JSON.stringify(val)
+            //             console.log('JSON 확인 차 : ' + format)
+            //         }
+            //         console.log('val: ' + val)
+            //         if (val.payload && val.payload.template_type === 'button') {
+            //             templateButton(val, userId, token)
+            //         }
+
+            //         else if (val.type === 'list_template') {
+            //             templateList(val, userId, token)
+            //         }
+        
+            //         else if (val.type === 'carousel_template') {
+            //              templateCarousel(val, userId, token)
+            //         }
+        
+            //         else if (val.type === 'carousel_image_template') {
+            //              templateCarouselImages(val, userId, token)
+            //         }
+
+            //         if (val.content && val.content.type === 'flex'){
+            //             await templateNaver(val, userId, token)
+            //         }
+            //         else {
+            //             await templateString(data.val, userId, token)
+            //         }
+                    
+            //     } catch (error) {
+            //         console.log(error)
+            //     }
+            // })
+
+
+
+            // for (let i = 0; i < response.length; i++) {
+            //     const data = response[i]
+            //     const val = data.val
+            //     console.log('val: ' + val)
+            //     if(data.type == "template"){
+            //         const format = JSON.stringify(data.val)
+            //         console.log('format : ' + format)
+            //     }                
+            //     try {
+            //         const format = JSON.parse(val)
+            //         val = format
+            //         console.log('formatted: ', val)
+                    
+            //     } catch (error) {
+            //         await templateString(val, userId, token)
+            //     }
+            // }
         } catch (error: any) {
             console.log('Error happened when sending message: ', error)
         }

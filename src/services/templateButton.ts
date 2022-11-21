@@ -19,15 +19,21 @@ export default async function templateButton(
         const responseTemplate: any = template ? template!.payload.buttons : []
         const requestTemplateLineWork: any[] = []
         responseTemplate.forEach((data: any, index: Number) => {
-            if (data.title.length > 20) {
+            if (data.title.length > 20) {                
                 data.title = data.title.substring(0, 20)
             }
-            data.type = 'message'
-            data.label = data.title
-            data.text = data.title
+            if(data.type === 'url'){
+                data.type = 'uri'
+                data.label = data.title
+                data.uri = data.url + '&channel=rtm'
+            }else {
+                data.type = 'message'
+                data.label = data.title
+                data.text = data.title
+            }
             delete data.payload,
-                delete data.title,
-                requestTemplateLineWork.push(data)
+            delete data.title
+            requestTemplateLineWork.push(data)
         })
         const bodyRequestThemplateLineWork: any = {
             content: {
@@ -38,7 +44,7 @@ export default async function templateButton(
                 actions: requestTemplateLineWork,
             },
         }
-        await axios.post(
+        const res = await axios.post(
             `https://www.worksapis.com/v1.0/bots/${environment.botId}/users/${userId}/messages`,
             bodyRequestThemplateLineWork,
             {
@@ -47,5 +53,7 @@ export default async function templateButton(
                 },
             }
         )
-    } catch (error) {}
+    } catch (error) {
+        console.log(error)
+    }
 }

@@ -24,13 +24,13 @@ export default async function templateCarousel(
                 text: element.subtitle,
                 defaultAction: {
                     type: 'uri',
-                    uri: 'https://line.worksmobile.com',
+                    uri: element.default_action.url,
                 },
                 actions: [
                     {
                         type: 'uri',
-                        label: 'Visit',
-                        uri: 'https://line.worksmobile.com',
+                        label: elements.buttons[0].title,
+                        uri: elements.buttons[0].url,
                     },
                 ],
             }
