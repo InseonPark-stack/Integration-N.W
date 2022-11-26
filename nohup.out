@@ -1,0 +1,1720 @@
+yarn run v1.22.19
+error Command "devleop" not found.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+error Command "devleop" not found.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+$ ts-node ./src/local.ts
+⚡️[server]: Server is running at https://localhost:8080
+START
+message dldia
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABROgsmupq7OrvIpE5qCr0Pqxp1P7MNZMciPINfSVH2aPjr7yBJ06106Fo7MXB51UBCmqkd83CvEQg+EheE3HHK7QV7ExQmfiaBChOK3ZskBUsT3VQmYfX/oV80XebZgCJXoKMZsRgbBIZw5LQkYBTDO0j74shuDSmxwmEKa7MMWArPgXQeNo/pf5fT7YrZfPBZlXSFTx2vdF24JPAh47s/hWFdK6cw1du39bqjbFf3xzQ4+NhnL1yY8DeRc4ddCLgAuO3/lW46hiLmzPPE9g+tyutyGA5SI3Ml/pzRush2i/7d+Ddyjz6HFyuCBEtGXgUOG+wO86woficmhEvMSPcptRX2lONQrJRxUAMINlKSZOTJqSRw0RDJdM8Tf2j46tR/MBnWuGWU1Zv1ZCbjRdAFqivEhQew+TPY/z/xrMWrJLxW624YQWN8TKQBY+IPVBN8g==
+tokenLineWorks kr1AAABROgsmupq7OrvIpE5qCr0Pqxp1P7MNZMciPINfSVH2aPjr7yBJ06106Fo7MXB51UBCmqkd83CvEQg+EheE3HHK7QV7ExQmfiaBChOK3ZskBUsT3VQmYfX/oV80XebZgCJXoKMZsRgbBIZw5LQkYBTDO0j74shuDSmxwmEKa7MMWArPgXQeNo/pf5fT7YrZfPBZlXSFTx2vdF24JPAh47s/hWFdK6cw1du39bqjbFf3xzQ4+NhnL1yY8DeRc4ddCLgAuO3/lW46hiLmzPPE9g+tyutyGA5SI3Ml/pzRush2i/7d+Ddyjz6HFyuCBEtGXgUOG+wO86woficmhEvMSPcptRX2lONQrJRxUAMINlKSZOTJqSRw0RDJdM8Tf2j46tR/MBnWuGWU1Zv1ZCbjRdAFqivEhQew+TPY/z/xrMWrJLxW624YQWN8TKQBY+IPVBN8g==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABROgsmupq7OrvIpE5qCr0Pqxp1P7MNZMciPINfSVH2aPjr7yBJ06106Fo7MXB51UBCmqkd83CvEQg+EheE3HHK7QV7ExQmfiaBChOK3ZskBUsT3VQmYfX/oV80XebZgCJXoKMZsRgbBIZw5LQkYBTDO0j74shuDSmxwmEKa7MMWArPgXQeNo/pf5fT7YrZfPBZlXSFTx2vdF24JPAh47s/hWFdK6cw1du39bqjbFf3xzQ4+NhnL1yY8DeRc4ddCLgAuO3/lW46hiLmzPPE9g+tyutyGA5SI3Ml/pzRush2i/7d+Ddyjz6HFyuCBEtGXgUOG+wO86woficmhEvMSPcptRX2lONQrJRxUAMINlKSZOTJqSRw0RDJdM8Tf2j46tR/MBnWuGWU1Zv1ZCbjRdAFqivEhQew+TPY/z/xrMWrJLxW624YQWN8TKQBY+IPVBN8g==
+message dldia
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI1ODc0NX0.tHC1xscMFvPmv5-6q5YYyvAPAfN5CFYn0s_Ptora8p0
+kore message  {"session":{"new":false},"message":{"type":"text","val":"dldia"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+START
+message 이얌
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABR8qrq5t1iPzTHMz6AtRH0lUoii0SDOaRmpZv9WqVoIfgNW3NfIEoleLYC7SaFwjQu2vbqWxM9Pu/v9nD4afpguVGWnIn0LhbzXhQBCn2UU2xfxZbaPHdQ6zHZSqe/b+usNrXqbatprVmMun1BC7y0MtMf9GT5YlNbF8jw4rGfopUPla/xO5rbT4wNDoVG9c7SmLQ2QzDCP9XS4F29Ayk8JOCwkTAr0SQuF+dlP1Fbn04NWNK6xlbMg3hXJTVuFbWu7SNaEQNF+Ry4He+lDb0aQfdQchnth3VC8UUcROKT/YJ5DoYBowlSU00jlmtDC6EwPTfeF7GVmObESKZZc6YRztG7Oc5yVrru8S9Ud2SmLped1eysoSjMNxXIGOVCesQNiyIfl03dSYOvcZyABLpsPIHIGtYYd0tIv2pWXVcIXWBe098GgzSJPFnAUM1xwEAjQ==
+tokenLineWorks kr1AAABR8qrq5t1iPzTHMz6AtRH0lUoii0SDOaRmpZv9WqVoIfgNW3NfIEoleLYC7SaFwjQu2vbqWxM9Pu/v9nD4afpguVGWnIn0LhbzXhQBCn2UU2xfxZbaPHdQ6zHZSqe/b+usNrXqbatprVmMun1BC7y0MtMf9GT5YlNbF8jw4rGfopUPla/xO5rbT4wNDoVG9c7SmLQ2QzDCP9XS4F29Ayk8JOCwkTAr0SQuF+dlP1Fbn04NWNK6xlbMg3hXJTVuFbWu7SNaEQNF+Ry4He+lDb0aQfdQchnth3VC8UUcROKT/YJ5DoYBowlSU00jlmtDC6EwPTfeF7GVmObESKZZc6YRztG7Oc5yVrru8S9Ud2SmLped1eysoSjMNxXIGOVCesQNiyIfl03dSYOvcZyABLpsPIHIGtYYd0tIv2pWXVcIXWBe098GgzSJPFnAUM1xwEAjQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABR8qrq5t1iPzTHMz6AtRH0lUoii0SDOaRmpZv9WqVoIfgNW3NfIEoleLYC7SaFwjQu2vbqWxM9Pu/v9nD4afpguVGWnIn0LhbzXhQBCn2UU2xfxZbaPHdQ6zHZSqe/b+usNrXqbatprVmMun1BC7y0MtMf9GT5YlNbF8jw4rGfopUPla/xO5rbT4wNDoVG9c7SmLQ2QzDCP9XS4F29Ayk8JOCwkTAr0SQuF+dlP1Fbn04NWNK6xlbMg3hXJTVuFbWu7SNaEQNF+Ry4He+lDb0aQfdQchnth3VC8UUcROKT/YJ5DoYBowlSU00jlmtDC6EwPTfeF7GVmObESKZZc6YRztG7Oc5yVrru8S9Ud2SmLped1eysoSjMNxXIGOVCesQNiyIfl03dSYOvcZyABLpsPIHIGtYYd0tIv2pWXVcIXWBe098GgzSJPFnAUM1xwEAjQ==
+message 이얌
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI1ODc0Nn0.0PUme_DTeY26ve-LiADUPFcMv609d0eT0p2Z9GYeY-o
+kore message  {"session":{"new":false},"message":{"type":"text","val":"이얌"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '나는 대답을 찾을 수 없다. 다른 것을 시도하십시오.',
+      createdOn: '2022-11-24T02:59:06.892Z',
+      messageId: 'ms-c719d8e9-c2f9-5a19-9b33-7907bbb5ecef'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Fulfilled',
+  completedTaskId: 'dg-f6037bc7-f96a-5539-a53e-4a923d073cf0',
+  completedTaskName: 'fallback task'
+}
+JSON 확인 차 : "나는 대답을 찾을 수 없다. 다른 것을 시도하십시오."
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '나는 그것을 이해할 수 없었다. 당신은 다시 말할 수 있습니까?',
+      createdOn: '2022-11-24T02:59:07.825Z',
+      messageId: 'ms-a85e81bb-e09e-5c17-8dc9-a4cc6cf37e77'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Fulfilled',
+  completedTaskId: 'dg-f6037bc7-f96a-5539-a53e-4a923d073cf0',
+  completedTaskName: 'fallback task'
+}
+JSON 확인 차 : "나는 그것을 이해할 수 없었다. 당신은 다시 말할 수 있습니까?"
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRjBcJEQo3oQxLJRNNDNK7q4zhAzakz5QeQBTnCX2Ftv77PDbYNKMqslwM9nHMyPaOckpi9fc/vuU6AZh6K7OcAiLwsiOq9hrgDYy0MHqvJlqJQMAKvRfxGJ6aArPMDMGTS/MPYGo9QMWzxnnvd378p72BaZsYw53k59FBEGj8J0r+LCJjyyn/ua9NOSJEUpo/7jBwYqyYWARCbGpaA5QzCRVFfovU3ZH6s3q+UiDL41/nNfVO7eEYr9G2PAY3DBto0U3AGODQ7+aKcsTCTYMgo3qa9c4DOS/007mvHm5SYIn1nwudGt0uXmZ/Sf1wrW0Fi1IY0CE0azeARYkEtm4yCVSuamPTD1WysZGUOsXvyBl0RlSMDnhoRYHf1HQ0ib435iVwxGlf0+bjIRuzCIm71suLLlkFor/aDoNRTA5hL/AcD//gHAtGapUIZIx9q5txg==
+tokenLineWorks kr1AAABRjBcJEQo3oQxLJRNNDNK7q4zhAzakz5QeQBTnCX2Ftv77PDbYNKMqslwM9nHMyPaOckpi9fc/vuU6AZh6K7OcAiLwsiOq9hrgDYy0MHqvJlqJQMAKvRfxGJ6aArPMDMGTS/MPYGo9QMWzxnnvd378p72BaZsYw53k59FBEGj8J0r+LCJjyyn/ua9NOSJEUpo/7jBwYqyYWARCbGpaA5QzCRVFfovU3ZH6s3q+UiDL41/nNfVO7eEYr9G2PAY3DBto0U3AGODQ7+aKcsTCTYMgo3qa9c4DOS/007mvHm5SYIn1nwudGt0uXmZ/Sf1wrW0Fi1IY0CE0azeARYkEtm4yCVSuamPTD1WysZGUOsXvyBl0RlSMDnhoRYHf1HQ0ib435iVwxGlf0+bjIRuzCIm71suLLlkFor/aDoNRTA5hL/AcD//gHAtGapUIZIx9q5txg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRjBcJEQo3oQxLJRNNDNK7q4zhAzakz5QeQBTnCX2Ftv77PDbYNKMqslwM9nHMyPaOckpi9fc/vuU6AZh6K7OcAiLwsiOq9hrgDYy0MHqvJlqJQMAKvRfxGJ6aArPMDMGTS/MPYGo9QMWzxnnvd378p72BaZsYw53k59FBEGj8J0r+LCJjyyn/ua9NOSJEUpo/7jBwYqyYWARCbGpaA5QzCRVFfovU3ZH6s3q+UiDL41/nNfVO7eEYr9G2PAY3DBto0U3AGODQ7+aKcsTCTYMgo3qa9c4DOS/007mvHm5SYIn1nwudGt0uXmZ/Sf1wrW0Fi1IY0CE0azeARYkEtm4yCVSuamPTD1WysZGUOsXvyBl0RlSMDnhoRYHf1HQ0ib435iVwxGlf0+bjIRuzCIm71suLLlkFor/aDoNRTA5hL/AcD//gHAtGapUIZIx9q5txg==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI1ODc1Mn0.t6dxQvkoQifGZjNk6bAD6Os7RoqXu4AnGajwKG9WWjI
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-24T02:59:13.451Z',
+      messageId: 'ms-e862a417-046e-5c9c-b1a9-822d102519c9'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRPXKqjIxLxhk7w11fuemcsEdpMFBoJ0bm9Vto9A9E4LBQHwLXGDgymBLuOIWnebRq3mRuKYwRDSJMxdJrAWBAa4nsyVytdx3+C+iJ1u1thtL99JbSN3SBXnOx+GwGrnXSIWqk1t4l38HBCHYOlV7cqoBm0bqm+3mwvHBzfz8Ioh79oMapd0JI3jxdJwYSKx/zRNjgtKdqxDv1XzDFw3AO/xybr+PRVScvyjEYqWyBtdvx6yrzvxbyVftOUQS4C+AbbYwAUE2OaExu5OtfQUaaKTG/+p29zVj90k3ynfbGJU8ly9VnrStgI3fi5YZEMlXj1VakgLRXF1FshH9Byp5Xr3o57Nw7csU417ofN6F1C23Tmtqt+Cxa0NyO1mNRy4SbLefnAciBhK2UX8/meGCdpDEovI7M0GMK8PgE9a2pqWswx9m6ULeCG4hfRvNLrRv9g==
+tokenLineWorks kr1AAABRPXKqjIxLxhk7w11fuemcsEdpMFBoJ0bm9Vto9A9E4LBQHwLXGDgymBLuOIWnebRq3mRuKYwRDSJMxdJrAWBAa4nsyVytdx3+C+iJ1u1thtL99JbSN3SBXnOx+GwGrnXSIWqk1t4l38HBCHYOlV7cqoBm0bqm+3mwvHBzfz8Ioh79oMapd0JI3jxdJwYSKx/zRNjgtKdqxDv1XzDFw3AO/xybr+PRVScvyjEYqWyBtdvx6yrzvxbyVftOUQS4C+AbbYwAUE2OaExu5OtfQUaaKTG/+p29zVj90k3ynfbGJU8ly9VnrStgI3fi5YZEMlXj1VakgLRXF1FshH9Byp5Xr3o57Nw7csU417ofN6F1C23Tmtqt+Cxa0NyO1mNRy4SbLefnAciBhK2UX8/meGCdpDEovI7M0GMK8PgE9a2pqWswx9m6ULeCG4hfRvNLrRv9g==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRPXKqjIxLxhk7w11fuemcsEdpMFBoJ0bm9Vto9A9E4LBQHwLXGDgymBLuOIWnebRq3mRuKYwRDSJMxdJrAWBAa4nsyVytdx3+C+iJ1u1thtL99JbSN3SBXnOx+GwGrnXSIWqk1t4l38HBCHYOlV7cqoBm0bqm+3mwvHBzfz8Ioh79oMapd0JI3jxdJwYSKx/zRNjgtKdqxDv1XzDFw3AO/xybr+PRVScvyjEYqWyBtdvx6yrzvxbyVftOUQS4C+AbbYwAUE2OaExu5OtfQUaaKTG/+p29zVj90k3ynfbGJU8ly9VnrStgI3fi5YZEMlXj1VakgLRXF1FshH9Byp5Xr3o57Nw7csU417ofN6F1C23Tmtqt+Cxa0NyO1mNRy4SbLefnAciBhK2UX8/meGCdpDEovI7M0GMK8PgE9a2pqWswx9m6ULeCG4hfRvNLrRv9g==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI2MDYxNn0.9ggwBvsO3d1siXRiiqvIJXotkC_w2xcgiQyzQVIO0dU
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '나는 그것을 이해할 수 없었다. 당신은 다시 말할 수 있습니까?',
+      createdOn: '2022-11-24T03:30:17.905Z',
+      messageId: 'ms-3ea806f6-012a-54a0-b308-21c12f7ca934'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Fulfilled',
+  completedTaskId: 'dg-f6037bc7-f96a-5539-a53e-4a923d073cf0',
+  completedTaskName: 'fallback task'
+}
+JSON 확인 차 : "나는 그것을 이해할 수 없었다. 당신은 다시 말할 수 있습니까?"
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABQ6Jorr0NHETLyNirU2KWwIZJNEwLlitN8CxuDkZCe9aWvixzJRhr12zMMGKL0+2FVHE5lVWclXCEs5OSbxgkcneTVUkH9NBTafxKU8p/LTZU1bU+vfGT0sHxT6Ngjwuje0dDpXhuIcM3IsIRNEc8tO3K0W+RlHUkt2PFlfO6VxpubQfNUQqnfMAs4I8BYJMshjCp1Jk/Dt0J3dCx0IU5QA6EBXXb88Cf1RbntZ+vBc0OJTE86z/UPXavRKznfV1IBSKroCcIRr6UEjjPacPsrrYKG9+jDmwPPGft/IUyZ95eUN+MSPhHn8tRkR5U8b6S0lQLWYMymVdz46g3x9X+UwPnu44AkAKdwZWHnLBy49uPIbYqxm3i333is/a31tniyezXGRMaavP5j97CYKyL8Qz5S6+nA+3XtWjOZBbTA+dq0/Kf/7FKdU3d2yMN8lbQNw==
+tokenLineWorks kr1AAABQ6Jorr0NHETLyNirU2KWwIZJNEwLlitN8CxuDkZCe9aWvixzJRhr12zMMGKL0+2FVHE5lVWclXCEs5OSbxgkcneTVUkH9NBTafxKU8p/LTZU1bU+vfGT0sHxT6Ngjwuje0dDpXhuIcM3IsIRNEc8tO3K0W+RlHUkt2PFlfO6VxpubQfNUQqnfMAs4I8BYJMshjCp1Jk/Dt0J3dCx0IU5QA6EBXXb88Cf1RbntZ+vBc0OJTE86z/UPXavRKznfV1IBSKroCcIRr6UEjjPacPsrrYKG9+jDmwPPGft/IUyZ95eUN+MSPhHn8tRkR5U8b6S0lQLWYMymVdz46g3x9X+UwPnu44AkAKdwZWHnLBy49uPIbYqxm3i333is/a31tniyezXGRMaavP5j97CYKyL8Qz5S6+nA+3XtWjOZBbTA+dq0/Kf/7FKdU3d2yMN8lbQNw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABQ6Jorr0NHETLyNirU2KWwIZJNEwLlitN8CxuDkZCe9aWvixzJRhr12zMMGKL0+2FVHE5lVWclXCEs5OSbxgkcneTVUkH9NBTafxKU8p/LTZU1bU+vfGT0sHxT6Ngjwuje0dDpXhuIcM3IsIRNEc8tO3K0W+RlHUkt2PFlfO6VxpubQfNUQqnfMAs4I8BYJMshjCp1Jk/Dt0J3dCx0IU5QA6EBXXb88Cf1RbntZ+vBc0OJTE86z/UPXavRKznfV1IBSKroCcIRr6UEjjPacPsrrYKG9+jDmwPPGft/IUyZ95eUN+MSPhHn8tRkR5U8b6S0lQLWYMymVdz46g3x9X+UwPnu44AkAKdwZWHnLBy49uPIbYqxm3i333is/a31tniyezXGRMaavP5j97CYKyL8Qz5S6+nA+3XtWjOZBbTA+dq0/Kf/7FKdU3d2yMN8lbQNw==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI2MDYyMn0.hcf1vPcEb2iSCT836Vk6XVwDM3xJo4pmIKH1HlI3wLI
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-24T03:30:23.478Z',
+      messageId: 'ms-a4641a47-d9ab-5d32-9e57-8c09a7f4b079'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSPxHzA2Mej+Ck9BIPuAvAu87EpaZ1Bvs635G9/rQCzIUWq7c1gCpRwJh6M9NhD6co4vZ/Wm2mspySSgaAUwdgzGv+U5SV1aEIU31jmukjigCH+FFSJuZpNiczo9sKHW4WyjAIjCa7K0pKQTjNjXEPb7OvAWwek0xfEqhP0QdrZTqV4t6Prvw2UJsvzCZjrOwveKAUEBY2p1LBDGiwmQ3CMMRQS0XkCo38P6by980EjXGWctrtQ2iadRm7OufuJLwZomEaTsltMRaH2MP+nUzZHMViawnFDHfe3HVvjtFTu6XM9B9Hx61XajzTf6ndw2Lb5hViho3oFvZqgmmG3aEMbQIsMf3DmlgME2H7FjQSWm5ICfFQNbCpnutuWYRrWXFpcllZvH2FphW7jWKLi2oKnzgym7WidMyS70QIhRlOKs7PgJu+5/1m5M+hiYZKTUs3w==
+tokenLineWorks kr1AAABSPxHzA2Mej+Ck9BIPuAvAu87EpaZ1Bvs635G9/rQCzIUWq7c1gCpRwJh6M9NhD6co4vZ/Wm2mspySSgaAUwdgzGv+U5SV1aEIU31jmukjigCH+FFSJuZpNiczo9sKHW4WyjAIjCa7K0pKQTjNjXEPb7OvAWwek0xfEqhP0QdrZTqV4t6Prvw2UJsvzCZjrOwveKAUEBY2p1LBDGiwmQ3CMMRQS0XkCo38P6by980EjXGWctrtQ2iadRm7OufuJLwZomEaTsltMRaH2MP+nUzZHMViawnFDHfe3HVvjtFTu6XM9B9Hx61XajzTf6ndw2Lb5hViho3oFvZqgmmG3aEMbQIsMf3DmlgME2H7FjQSWm5ICfFQNbCpnutuWYRrWXFpcllZvH2FphW7jWKLi2oKnzgym7WidMyS70QIhRlOKs7PgJu+5/1m5M+hiYZKTUs3w==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSPxHzA2Mej+Ck9BIPuAvAu87EpaZ1Bvs635G9/rQCzIUWq7c1gCpRwJh6M9NhD6co4vZ/Wm2mspySSgaAUwdgzGv+U5SV1aEIU31jmukjigCH+FFSJuZpNiczo9sKHW4WyjAIjCa7K0pKQTjNjXEPb7OvAWwek0xfEqhP0QdrZTqV4t6Prvw2UJsvzCZjrOwveKAUEBY2p1LBDGiwmQ3CMMRQS0XkCo38P6by980EjXGWctrtQ2iadRm7OufuJLwZomEaTsltMRaH2MP+nUzZHMViawnFDHfe3HVvjtFTu6XM9B9Hx61XajzTf6ndw2Lb5hViho3oFvZqgmmG3aEMbQIsMf3DmlgME2H7FjQSWm5ICfFQNbCpnutuWYRrWXFpcllZvH2FphW7jWKLi2oKnzgym7WidMyS70QIhRlOKs7PgJu+5/1m5M+hiYZKTUs3w==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI2MDYyNX0.l1ZOE9Fn9gm4-J_QuYQSicAQX8iURjQOTkaOGPR-z0k
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: 'bfa9cecdca9022d7ca19c223ee1f6aaa' }
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSBzM/FOo4p9RtG8qQAbNyhLeT+pPd26VgXuxubtrX5OnBFdWEv8EXtnkeoBYGNDJhzNcS/qRfsBJzZt3qrkFCIB8GfQRrl310I8UzgqjtP/dhhZVzZvlCtcaeHT+RN89XJHDRK5cPJ53Jl6BIUdpEKUFB5Z8PHd8cbEnojWxhfmS7nYXEm58nXX3vTIBRYAg3hZ89IeTGjjTAZ68eJ3vs2s3fCG1/oYjbnrBxzT+AUUjGN7H+Vk+nYYBTZilDsWfyrP5AJ0F60kxqHQfaw2vv/81qdD1Ove+bAiGFuu8k8uvKCQ4krHYjQjtPvrn4/Os549CPOJVdjmO8KJu6M4zGNZ+xZBYJBEGik8bcwU6ppls5RfpkB09/2osphzDmaWuRUqrGpfNUF/pIHkApnIoHYfJ4jZBvhXjpXTn164YIjgsXTOXlPK1ej/ye5szy1htRQ==
+tokenLineWorks kr1AAABSBzM/FOo4p9RtG8qQAbNyhLeT+pPd26VgXuxubtrX5OnBFdWEv8EXtnkeoBYGNDJhzNcS/qRfsBJzZt3qrkFCIB8GfQRrl310I8UzgqjtP/dhhZVzZvlCtcaeHT+RN89XJHDRK5cPJ53Jl6BIUdpEKUFB5Z8PHd8cbEnojWxhfmS7nYXEm58nXX3vTIBRYAg3hZ89IeTGjjTAZ68eJ3vs2s3fCG1/oYjbnrBxzT+AUUjGN7H+Vk+nYYBTZilDsWfyrP5AJ0F60kxqHQfaw2vv/81qdD1Ove+bAiGFuu8k8uvKCQ4krHYjQjtPvrn4/Os549CPOJVdjmO8KJu6M4zGNZ+xZBYJBEGik8bcwU6ppls5RfpkB09/2osphzDmaWuRUqrGpfNUF/pIHkApnIoHYfJ4jZBvhXjpXTn164YIjgsXTOXlPK1ej/ye5szy1htRQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSBzM/FOo4p9RtG8qQAbNyhLeT+pPd26VgXuxubtrX5OnBFdWEv8EXtnkeoBYGNDJhzNcS/qRfsBJzZt3qrkFCIB8GfQRrl310I8UzgqjtP/dhhZVzZvlCtcaeHT+RN89XJHDRK5cPJ53Jl6BIUdpEKUFB5Z8PHd8cbEnojWxhfmS7nYXEm58nXX3vTIBRYAg3hZ89IeTGjjTAZ68eJ3vs2s3fCG1/oYjbnrBxzT+AUUjGN7H+Vk+nYYBTZilDsWfyrP5AJ0F60kxqHQfaw2vv/81qdD1Ove+bAiGFuu8k8uvKCQ4krHYjQjtPvrn4/Os549CPOJVdjmO8KJu6M4zGNZ+xZBYJBEGik8bcwU6ppls5RfpkB09/2osphzDmaWuRUqrGpfNUF/pIHkApnIoHYfJ4jZBvhXjpXTn164YIjgsXTOXlPK1ej/ye5szy1htRQ==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzQ3OH0.ro0Sec_1ZA91LjCGtDXd7DymrVgv9J61BNjc5-KuqmU
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-24T08:11:20.559Z',
+      messageId: 'ms-4a2ba218-8ebb-5a5b-b4d0-1d4134b69bbe'
+    }
+  ],
+  _v: 'v2',
+  endReason: 'Cancelled'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSFhQzGvda4mcBpKFhILDOcVqqE8VvlgfOOihrEUcfTXJuDursXW0YlAElqzbBDdYv6OTUCWHE3953tJOEkQXB74owVTosQG+M2I0DOaRgQzq6R6dtt1r0GIVH3nhzthF6qJOOuoIOJupZa530UEV6EKvlhm5kzDqDQo3rEgy6INRe8KsxIUwpyJHzSUap8sulttzyXySztSmjXqieNxDSzbdRlljYSoqAne3gwVs/8Mk1Cn0sEtXFeKACX6uhY7+m6YgDQ+AhZjh2jQpGq2eohdj5oc/AIne3VA+LcJCrn26C6QDw/8Ugq+n3jANaBNF0lWbUUAYolt9ye0MlpemJIuCdj8ycSk+Dt/fLd4rzBSlLwR+lUnX+nRsHIwAGKkRniP4au+gk0tZsdm6fzug49b0Ra5nG8c/Z3PzQvnL+65y2RMx8qL5tusGIIQpRQBPGA==
+tokenLineWorks kr1AAABSFhQzGvda4mcBpKFhILDOcVqqE8VvlgfOOihrEUcfTXJuDursXW0YlAElqzbBDdYv6OTUCWHE3953tJOEkQXB74owVTosQG+M2I0DOaRgQzq6R6dtt1r0GIVH3nhzthF6qJOOuoIOJupZa530UEV6EKvlhm5kzDqDQo3rEgy6INRe8KsxIUwpyJHzSUap8sulttzyXySztSmjXqieNxDSzbdRlljYSoqAne3gwVs/8Mk1Cn0sEtXFeKACX6uhY7+m6YgDQ+AhZjh2jQpGq2eohdj5oc/AIne3VA+LcJCrn26C6QDw/8Ugq+n3jANaBNF0lWbUUAYolt9ye0MlpemJIuCdj8ycSk+Dt/fLd4rzBSlLwR+lUnX+nRsHIwAGKkRniP4au+gk0tZsdm6fzug49b0Ra5nG8c/Z3PzQvnL+65y2RMx8qL5tusGIIQpRQBPGA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSFhQzGvda4mcBpKFhILDOcVqqE8VvlgfOOihrEUcfTXJuDursXW0YlAElqzbBDdYv6OTUCWHE3953tJOEkQXB74owVTosQG+M2I0DOaRgQzq6R6dtt1r0GIVH3nhzthF6qJOOuoIOJupZa530UEV6EKvlhm5kzDqDQo3rEgy6INRe8KsxIUwpyJHzSUap8sulttzyXySztSmjXqieNxDSzbdRlljYSoqAne3gwVs/8Mk1Cn0sEtXFeKACX6uhY7+m6YgDQ+AhZjh2jQpGq2eohdj5oc/AIne3VA+LcJCrn26C6QDw/8Ugq+n3jANaBNF0lWbUUAYolt9ye0MlpemJIuCdj8ycSk+Dt/fLd4rzBSlLwR+lUnX+nRsHIwAGKkRniP4au+gk0tZsdm6fzug49b0Ra5nG8c/Z3PzQvnL+65y2RMx8qL5tusGIIQpRQBPGA==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzQ4M30.Z7F239zwqD1hQSXZDsDGmU-AcDc_5pkmPblVzzN9Ic8
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-24T08:11:25.205Z',
+      messageId: 'ms-59068836-a9c7-559b-b294-79b3d3e4944b'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSi8v/oxsVc2xZD38kwGOkw2sgRKB3if8duoXutsFuf7zbcC0J9So03bR28ecCSDKmXNoGee7o3rc41wbYTyl9AkN91vQE95QJ42XmPTvJHbfvDk34JGn4i3vCiAgNZeFlDTVrCFK9Yq0RzfBXYKH9DB9sfPY5Ey9IepjVMOHLAxrmevtbxwUeYzKoinSmZtPdudbdoLfe0M46L2xKTlnKkLNIaLIPj7LvEYk/8OUarryaFbbtncFfvuvSN050fAmTWAk88o/mNeY+ZahS3+5wJvl+leYZFXr3H57aNzx0e/FCxpYHXGHVOQegmxtca3a1me0+Cx3x3frdxR6SgIm+204uQivH1Z3yC4WYdh8D20W4vsuSHCbrz4c0P5RAnggPBHSXZdb7ej+Lv/YGs48a/KO7P6Cdkvtni1eVX4FzZqax9w4lWFkbetC08gMV5k/sA==
+tokenLineWorks kr1AAABSi8v/oxsVc2xZD38kwGOkw2sgRKB3if8duoXutsFuf7zbcC0J9So03bR28ecCSDKmXNoGee7o3rc41wbYTyl9AkN91vQE95QJ42XmPTvJHbfvDk34JGn4i3vCiAgNZeFlDTVrCFK9Yq0RzfBXYKH9DB9sfPY5Ey9IepjVMOHLAxrmevtbxwUeYzKoinSmZtPdudbdoLfe0M46L2xKTlnKkLNIaLIPj7LvEYk/8OUarryaFbbtncFfvuvSN050fAmTWAk88o/mNeY+ZahS3+5wJvl+leYZFXr3H57aNzx0e/FCxpYHXGHVOQegmxtca3a1me0+Cx3x3frdxR6SgIm+204uQivH1Z3yC4WYdh8D20W4vsuSHCbrz4c0P5RAnggPBHSXZdb7ej+Lv/YGs48a/KO7P6Cdkvtni1eVX4FzZqax9w4lWFkbetC08gMV5k/sA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSi8v/oxsVc2xZD38kwGOkw2sgRKB3if8duoXutsFuf7zbcC0J9So03bR28ecCSDKmXNoGee7o3rc41wbYTyl9AkN91vQE95QJ42XmPTvJHbfvDk34JGn4i3vCiAgNZeFlDTVrCFK9Yq0RzfBXYKH9DB9sfPY5Ey9IepjVMOHLAxrmevtbxwUeYzKoinSmZtPdudbdoLfe0M46L2xKTlnKkLNIaLIPj7LvEYk/8OUarryaFbbtncFfvuvSN050fAmTWAk88o/mNeY+ZahS3+5wJvl+leYZFXr3H57aNzx0e/FCxpYHXGHVOQegmxtca3a1me0+Cx3x3frdxR6SgIm+204uQivH1Z3yC4WYdh8D20W4vsuSHCbrz4c0P5RAnggPBHSXZdb7ej+Lv/YGs48a/KO7P6Cdkvtni1eVX4FzZqax9w4lWFkbetC08gMV5k/sA==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzQ4N30.wbRJM10AxydT_H0Fgd2V0Y7d07NjvROo7PKbii6TnDU
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '278e88a9f9c52b8262ea704f01839a73' }
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSDFKQ8J8PPzvFOQx+ON1FCJWnl0n3fHmmwuSOswEbaBlP5E3PyOzBfGutWZWCHoaHSbUzWw1dlI9YnRdfYs4XF9+LKi+GQ1I2hrP9vX31fvNiATcVIo+kdRHhlJJKQEgX5BGLCijwtyiYfI6ifDrouOsdwCY3myO/82rHzjLfLs1VjJEJMerci1Merw9rSR+vsdmXhjVPEkN/joF1pppe7OtigheGjnMAbFLBuTUkStPEMaVFjUJjE8IypeRrNUI0GlxICIHbur6KsIj83oIKsp+ct0dzR+PyMaL54YcEHrsG5dfjXk6Rob4MMpk96CYjQK37IeSQzPS6/5X5lJI1Sk5UubPJOt7HAPAlesHqJkQp+AX+hBu3bSW/EIp92M5+44cNpMElbqU2h3ANGWZfZp8js07OLuiDufzFV9rI62ZsgWX6H3IWzzf425dycTS2Q==
+tokenLineWorks kr1AAABSDFKQ8J8PPzvFOQx+ON1FCJWnl0n3fHmmwuSOswEbaBlP5E3PyOzBfGutWZWCHoaHSbUzWw1dlI9YnRdfYs4XF9+LKi+GQ1I2hrP9vX31fvNiATcVIo+kdRHhlJJKQEgX5BGLCijwtyiYfI6ifDrouOsdwCY3myO/82rHzjLfLs1VjJEJMerci1Merw9rSR+vsdmXhjVPEkN/joF1pppe7OtigheGjnMAbFLBuTUkStPEMaVFjUJjE8IypeRrNUI0GlxICIHbur6KsIj83oIKsp+ct0dzR+PyMaL54YcEHrsG5dfjXk6Rob4MMpk96CYjQK37IeSQzPS6/5X5lJI1Sk5UubPJOt7HAPAlesHqJkQp+AX+hBu3bSW/EIp92M5+44cNpMElbqU2h3ANGWZfZp8js07OLuiDufzFV9rI62ZsgWX6H3IWzzf425dycTS2Q==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSDFKQ8J8PPzvFOQx+ON1FCJWnl0n3fHmmwuSOswEbaBlP5E3PyOzBfGutWZWCHoaHSbUzWw1dlI9YnRdfYs4XF9+LKi+GQ1I2hrP9vX31fvNiATcVIo+kdRHhlJJKQEgX5BGLCijwtyiYfI6ifDrouOsdwCY3myO/82rHzjLfLs1VjJEJMerci1Merw9rSR+vsdmXhjVPEkN/joF1pppe7OtigheGjnMAbFLBuTUkStPEMaVFjUJjE8IypeRrNUI0GlxICIHbur6KsIj83oIKsp+ct0dzR+PyMaL54YcEHrsG5dfjXk6Rob4MMpk96CYjQK37IeSQzPS6/5X5lJI1Sk5UubPJOt7HAPAlesHqJkQp+AX+hBu3bSW/EIp92M5+44cNpMElbqU2h3ANGWZfZp8js07OLuiDufzFV9rI62ZsgWX6H3IWzzf425dycTS2Q==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzY2NX0.-Kvthk7CpPaJw3L4DCedkHVFxhw8hDBThTQtgzv8iJ4
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 내역을 입력해주시기 바랍니다.',
+      createdOn: '2022-11-24T08:14:26.194Z',
+      messageId: 'ms-4b3314a4-0fc5-5ab2-91bc-5b31e67099e8'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 내역을 입력해주시기 바랍니다."
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSvFvLjpw77/Biogpg/pFn/ewvplbrRXDbTam+91J4dKxMy7AJ+sZ+OFfwAG3P/q8sdEOkEvszh42hGPBOm2c1GRR37OCZQzV/RrBYVuPR/cWZo9WDmF5TBa1RK4WOHCnYBO1p0HprU45IlFqv1HQemavXC+9tWWx+pHEVR+fpFCr3mSjHfgYaARCyq4WvzFocqxtLYObLEnETOWmk4MHPGu5PDz2Nxh47jIavhMJ6cBeM4Ze4o3hZ+YipQt5W1pH+SFh5Au3keYvkEhjBWOLwK8gj6IhxGJ8i/SbB/ae+UYLiOKk9M7clij/jEHgkESKdbnkPT1Dt0gLSqECsXi5k2HBncoEpt8MmGAKS/ORwUzUGR9zjoEDZPr+NUZ+G+OuzJ883i0LbGpS5OxktGrkvpJx7EnJCXoJ4lp5CcguZkmCZzXF2bxF6dU3GuJrQ8wxzA==
+tokenLineWorks kr1AAABSvFvLjpw77/Biogpg/pFn/ewvplbrRXDbTam+91J4dKxMy7AJ+sZ+OFfwAG3P/q8sdEOkEvszh42hGPBOm2c1GRR37OCZQzV/RrBYVuPR/cWZo9WDmF5TBa1RK4WOHCnYBO1p0HprU45IlFqv1HQemavXC+9tWWx+pHEVR+fpFCr3mSjHfgYaARCyq4WvzFocqxtLYObLEnETOWmk4MHPGu5PDz2Nxh47jIavhMJ6cBeM4Ze4o3hZ+YipQt5W1pH+SFh5Au3keYvkEhjBWOLwK8gj6IhxGJ8i/SbB/ae+UYLiOKk9M7clij/jEHgkESKdbnkPT1Dt0gLSqECsXi5k2HBncoEpt8MmGAKS/ORwUzUGR9zjoEDZPr+NUZ+G+OuzJ883i0LbGpS5OxktGrkvpJx7EnJCXoJ4lp5CcguZkmCZzXF2bxF6dU3GuJrQ8wxzA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSvFvLjpw77/Biogpg/pFn/ewvplbrRXDbTam+91J4dKxMy7AJ+sZ+OFfwAG3P/q8sdEOkEvszh42hGPBOm2c1GRR37OCZQzV/RrBYVuPR/cWZo9WDmF5TBa1RK4WOHCnYBO1p0HprU45IlFqv1HQemavXC+9tWWx+pHEVR+fpFCr3mSjHfgYaARCyq4WvzFocqxtLYObLEnETOWmk4MHPGu5PDz2Nxh47jIavhMJ6cBeM4Ze4o3hZ+YipQt5W1pH+SFh5Au3keYvkEhjBWOLwK8gj6IhxGJ8i/SbB/ae+UYLiOKk9M7clij/jEHgkESKdbnkPT1Dt0gLSqECsXi5k2HBncoEpt8MmGAKS/ORwUzUGR9zjoEDZPr+NUZ+G+OuzJ883i0LbGpS5OxktGrkvpJx7EnJCXoJ4lp5CcguZkmCZzXF2bxF6dU3GuJrQ8wxzA==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzY3MX0.ofuIulI0ASvxQSPpsdY0PYd-6tolI9DZe7k4zuC1EgU
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"\\"discard\\" 의 키워드로 검색한 결과 해당 항목의 자가 진단 가이드가 존재합니다. \\n확인 해보시겠습니까?","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-24T08:14:32.807Z',
+      messageId: 'ms-0851a443-10ed-5f29-8699-4ecc78b825d1'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRnYtwXgFQH/zqVhvYfr1WjZiL9iA/F/brzevZcP8pA2Q9d6DXTviwv7apPBFcIA+UeW8xbKqm5NpY+geIsG9z/nsqg3+X0WYczEwMJ8JuETUfMM6uvMrgzsGnTHRjM4nZxasszo6lB2rQ2WEfsQFRwHNe/znAKnJidYL/eqzCmy5v5XSn0xksECtmbySN2B4zdHfk3HYtooQWvNZugi+MeX2jvEMDL+Qet1GOasaVto48yZzNkHEO6tDFfeX+ut/3bHg2ygH/bsYowoxYKiEekfoKsEh62JM97id4bjP6pNmpVpsMC4uLFzRZ0XDeazjcAy3HeKget3nt521Xiwvhu4XOD/OQC1tuNCrF81yChdtj4ZaGq7/JIrUPcy1hJ4EORFeKFMJ1d/FkQwce1KuwjXZ2tO7e38f8ja4hbuNMYg44C6SQE5ng9PWW7Xtw7AKhQ==
+tokenLineWorks kr1AAABRnYtwXgFQH/zqVhvYfr1WjZiL9iA/F/brzevZcP8pA2Q9d6DXTviwv7apPBFcIA+UeW8xbKqm5NpY+geIsG9z/nsqg3+X0WYczEwMJ8JuETUfMM6uvMrgzsGnTHRjM4nZxasszo6lB2rQ2WEfsQFRwHNe/znAKnJidYL/eqzCmy5v5XSn0xksECtmbySN2B4zdHfk3HYtooQWvNZugi+MeX2jvEMDL+Qet1GOasaVto48yZzNkHEO6tDFfeX+ut/3bHg2ygH/bsYowoxYKiEekfoKsEh62JM97id4bjP6pNmpVpsMC4uLFzRZ0XDeazjcAy3HeKget3nt521Xiwvhu4XOD/OQC1tuNCrF81yChdtj4ZaGq7/JIrUPcy1hJ4EORFeKFMJ1d/FkQwce1KuwjXZ2tO7e38f8ja4hbuNMYg44C6SQE5ng9PWW7Xtw7AKhQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRnYtwXgFQH/zqVhvYfr1WjZiL9iA/F/brzevZcP8pA2Q9d6DXTviwv7apPBFcIA+UeW8xbKqm5NpY+geIsG9z/nsqg3+X0WYczEwMJ8JuETUfMM6uvMrgzsGnTHRjM4nZxasszo6lB2rQ2WEfsQFRwHNe/znAKnJidYL/eqzCmy5v5XSn0xksECtmbySN2B4zdHfk3HYtooQWvNZugi+MeX2jvEMDL+Qet1GOasaVto48yZzNkHEO6tDFfeX+ut/3bHg2ygH/bsYowoxYKiEekfoKsEh62JM97id4bjP6pNmpVpsMC4uLFzRZ0XDeazjcAy3HeKget3nt521Xiwvhu4XOD/OQC1tuNCrF81yChdtj4ZaGq7/JIrUPcy1hJ4EORFeKFMJ1d/FkQwce1KuwjXZ2tO7e38f8ja4hbuNMYg44C6SQE5ng9PWW7Xtw7AKhQ==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzY3NH0.DOIcVu7sEFawRTwPg1nlwTkGp5nHZfFAcnhKFq2DKj0
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-24T08:14:36.034Z',
+      messageId: 'ms-2794b08b-318a-5253-9898-7e63cac1730d'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Cancelled',
+  completedTaskId: 'dg-000d4c4c-31ce-5906-a42f-fcf30883505c',
+  completedTaskName: 'create incident'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSTLY1X2pJ6y7LzJtVROaLlt+4cfPbrK/B+OqumvPDZITGq3VD/JGktRapjMGir2PjXpdQca8wsSvBbFRB3xU5/Zz5SZS6qvNH+y6VbUK3jhtMZ99TOig2x96WjFRALx0wRnc0vRY2i1b/mG3KLF/90Iq1EMfTgHJDv2a08pUNN8+jPM0o5yQtdcViGEchnGCxqgYq8eXC07GB0svu62MxYAjOzh4GZ0AmHPmKLvBbG46Nb7bYqPhFht/dCU8TeBhUbIyC1mBox8LuigdBhp7Fy3VG1R4o+jfLMEkeo6DiQxQzl/UyveIkgZUU0G++dNDvIrXxGmPZIviPG4k2H2w0WG274Md6d8FM00lDebrcExyoBLytiVDQo6eLEfcPVu8slcZyz+G94/tqSoyAZWYOPAyU8T1XaXDGTl5R7If42i3oT265tvl7XHrUzYPuGy9tg==
+tokenLineWorks kr1AAABSTLY1X2pJ6y7LzJtVROaLlt+4cfPbrK/B+OqumvPDZITGq3VD/JGktRapjMGir2PjXpdQca8wsSvBbFRB3xU5/Zz5SZS6qvNH+y6VbUK3jhtMZ99TOig2x96WjFRALx0wRnc0vRY2i1b/mG3KLF/90Iq1EMfTgHJDv2a08pUNN8+jPM0o5yQtdcViGEchnGCxqgYq8eXC07GB0svu62MxYAjOzh4GZ0AmHPmKLvBbG46Nb7bYqPhFht/dCU8TeBhUbIyC1mBox8LuigdBhp7Fy3VG1R4o+jfLMEkeo6DiQxQzl/UyveIkgZUU0G++dNDvIrXxGmPZIviPG4k2H2w0WG274Md6d8FM00lDebrcExyoBLytiVDQo6eLEfcPVu8slcZyz+G94/tqSoyAZWYOPAyU8T1XaXDGTl5R7If42i3oT265tvl7XHrUzYPuGy9tg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSTLY1X2pJ6y7LzJtVROaLlt+4cfPbrK/B+OqumvPDZITGq3VD/JGktRapjMGir2PjXpdQca8wsSvBbFRB3xU5/Zz5SZS6qvNH+y6VbUK3jhtMZ99TOig2x96WjFRALx0wRnc0vRY2i1b/mG3KLF/90Iq1EMfTgHJDv2a08pUNN8+jPM0o5yQtdcViGEchnGCxqgYq8eXC07GB0svu62MxYAjOzh4GZ0AmHPmKLvBbG46Nb7bYqPhFht/dCU8TeBhUbIyC1mBox8LuigdBhp7Fy3VG1R4o+jfLMEkeo6DiQxQzl/UyveIkgZUU0G++dNDvIrXxGmPZIviPG4k2H2w0WG274Md6d8FM00lDebrcExyoBLytiVDQo6eLEfcPVu8slcZyz+G94/tqSoyAZWYOPAyU8T1XaXDGTl5R7If42i3oT265tvl7XHrUzYPuGy9tg==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzY3OX0.zMTax6d2QPHmh4jFfrEkh_v93XQXmuwQO2Zq_6uHLSY
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-24T08:14:40.616Z',
+      messageId: 'ms-4fdfd7f1-78f0-51f8-bb80-b5559c4b67ee'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSDygaRHeat48UjqONTd9EaXch6d725JnfmW30i4e6jnW92+H1E7CD/hHNwAdYlng9HxLuhu/s0r9Kiy1RiaTMyeotmNk6Z9O5FVirQapyDArWgnic8COe+5T21f1eJ9us6Us5hBMEqDxLpH22BjSsoIgIfYmn8wjI9pRPXb0I6jhzLJ2cFEnWwE/IAp9XDvBS918e/eLvmqz8WeSyBxfyeNrl+5X1qEpsThXyVOSIQttI2kB6u1lJ7nFQqo2TnKU1xgikXNES0zKO85iI3Mxy4KtXqMJx7ISxee9gvWq1PM6vJUSbRuUuIaPtMAjuBAMe4VAWvQvIEVCJbwcCmmSryxJEqWLLQm7IM9HF91kU8zjktEEWuguS5+5u6twMa/qKFXYxn/iSpYXqF6ZEvNjG34EwoB+WsYPTTRnO0LlMsYjc9a7KTXWVK01ZCmmOKgVow==
+tokenLineWorks kr1AAABSDygaRHeat48UjqONTd9EaXch6d725JnfmW30i4e6jnW92+H1E7CD/hHNwAdYlng9HxLuhu/s0r9Kiy1RiaTMyeotmNk6Z9O5FVirQapyDArWgnic8COe+5T21f1eJ9us6Us5hBMEqDxLpH22BjSsoIgIfYmn8wjI9pRPXb0I6jhzLJ2cFEnWwE/IAp9XDvBS918e/eLvmqz8WeSyBxfyeNrl+5X1qEpsThXyVOSIQttI2kB6u1lJ7nFQqo2TnKU1xgikXNES0zKO85iI3Mxy4KtXqMJx7ISxee9gvWq1PM6vJUSbRuUuIaPtMAjuBAMe4VAWvQvIEVCJbwcCmmSryxJEqWLLQm7IM9HF91kU8zjktEEWuguS5+5u6twMa/qKFXYxn/iSpYXqF6ZEvNjG34EwoB+WsYPTTRnO0LlMsYjc9a7KTXWVK01ZCmmOKgVow==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSDygaRHeat48UjqONTd9EaXch6d725JnfmW30i4e6jnW92+H1E7CD/hHNwAdYlng9HxLuhu/s0r9Kiy1RiaTMyeotmNk6Z9O5FVirQapyDArWgnic8COe+5T21f1eJ9us6Us5hBMEqDxLpH22BjSsoIgIfYmn8wjI9pRPXb0I6jhzLJ2cFEnWwE/IAp9XDvBS918e/eLvmqz8WeSyBxfyeNrl+5X1qEpsThXyVOSIQttI2kB6u1lJ7nFQqo2TnKU1xgikXNES0zKO85iI3Mxy4KtXqMJx7ISxee9gvWq1PM6vJUSbRuUuIaPtMAjuBAMe4VAWvQvIEVCJbwcCmmSryxJEqWLLQm7IM9HF91kU8zjktEEWuguS5+5u6twMa/qKFXYxn/iSpYXqF6ZEvNjG34EwoB+WsYPTTRnO0LlMsYjc9a7KTXWVK01ZCmmOKgVow==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTI3NzY4Mn0.UMpmvvxvRKmR1U0q6PnXJEKK0jnwBTTQGGjbhT3-IBM
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object],[object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '현재 보유하고 계신 자산리스트입니다.\n고장 접수하고 싶으신 자산을 선택해주세요.',
+      createdOn: '2022-11-24T08:14:43.754Z',
+      messageId: 'ms-a9d67aa8-aedf-51f6-8436-7efb9bc786ad'
+    },
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"carousel"}}}',
+      createdOn: '2022-11-24T08:14:44.012Z',
+      messageId: 'ms-7ef986e1-b250-5c1c-8e9e-c6a4dad10014'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "현재 보유하고 계신 자산리스트입니다.\n고장 접수하고 싶으신 자산을 선택해주세요."
+network error
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSvrdFCtWY9OWW7FqCa+NQXWmzqjoT2dJNL77TqbbA3Y+wJqptDIekXeUb8mzuYQ11nd6jCTVsPybPFpI/zbEF/ZNEXguVBWwsgJ/OaUQ/mtNsj9xoPkOmynMPcgIs+18Os6MVh7fXQdfmiZL7Q5k73+JUIvmKQBRmJb5zoQxFxL3BxnsoZCEb+MXGDfXseyu1jJMipXUOyJS2mhc4y4fHsO9qTkFHxdeAdVBTi8clyNAXqzqvhB5fI4eIT2aPjgZ3H2Q1MR5bWzkpsH4gyWpcuQoes/e3Z8h7xiBEb8KQtDZfHUaXTZZ09IQVGYKA50IFcZBHDXLFpYJCyJOeRiGGQ4ZYYti0/edwaPgUE1F68rOwjSNHyglY2/Mu/2CKnUPvbF5LjzbCCDxh0NSBLzSiUc8AsJhRnQeMu9a+2n3JQcXrkUfZ7skLc51xzWTzq8KiA==
+tokenLineWorks kr1AAABSvrdFCtWY9OWW7FqCa+NQXWmzqjoT2dJNL77TqbbA3Y+wJqptDIekXeUb8mzuYQ11nd6jCTVsPybPFpI/zbEF/ZNEXguVBWwsgJ/OaUQ/mtNsj9xoPkOmynMPcgIs+18Os6MVh7fXQdfmiZL7Q5k73+JUIvmKQBRmJb5zoQxFxL3BxnsoZCEb+MXGDfXseyu1jJMipXUOyJS2mhc4y4fHsO9qTkFHxdeAdVBTi8clyNAXqzqvhB5fI4eIT2aPjgZ3H2Q1MR5bWzkpsH4gyWpcuQoes/e3Z8h7xiBEb8KQtDZfHUaXTZZ09IQVGYKA50IFcZBHDXLFpYJCyJOeRiGGQ4ZYYti0/edwaPgUE1F68rOwjSNHyglY2/Mu/2CKnUPvbF5LjzbCCDxh0NSBLzSiUc8AsJhRnQeMu9a+2n3JQcXrkUfZ7skLc51xzWTzq8KiA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSvrdFCtWY9OWW7FqCa+NQXWmzqjoT2dJNL77TqbbA3Y+wJqptDIekXeUb8mzuYQ11nd6jCTVsPybPFpI/zbEF/ZNEXguVBWwsgJ/OaUQ/mtNsj9xoPkOmynMPcgIs+18Os6MVh7fXQdfmiZL7Q5k73+JUIvmKQBRmJb5zoQxFxL3BxnsoZCEb+MXGDfXseyu1jJMipXUOyJS2mhc4y4fHsO9qTkFHxdeAdVBTi8clyNAXqzqvhB5fI4eIT2aPjgZ3H2Q1MR5bWzkpsH4gyWpcuQoes/e3Z8h7xiBEb8KQtDZfHUaXTZZ09IQVGYKA50IFcZBHDXLFpYJCyJOeRiGGQ4ZYYti0/edwaPgUE1F68rOwjSNHyglY2/Mu/2CKnUPvbF5LjzbCCDxh0NSBLzSiUc8AsJhRnQeMu9a+2n3JQcXrkUfZ7skLc51xzWTzq8KiA==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTMzNzc3NX0.MBp2tjqNjxZ7LuLjcAGIYu9cDlIe2t3sEGIhKml7u18
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T00:56:17.342Z',
+      messageId: 'ms-21769d1f-f21f-5eaa-87bb-dcf0f775122d'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSilFeEWeH3Q7dHkAjWC9z37XviL6oP8L/uj6XWtJFOfhl98ooW+esUsYNbZnOcHjRrmClcl01lTRE5RecEitaYPERlQDE+1VwdCqv/wmJVnusnaHzwjv9LxXJi2zeN6IE7a8rS8S3rRofMOF+PefDtckKqp7wIu1qbB687HNrza6Am5cBR1JN7JnzN603kMa7vqxL3787DYuAXDMRrozFetJyWlSFWc+43Llh4MRx6Xo57T78vM8GeBcrEB2oHfza0rPm0BQ76xd5Fuh3KqVg3A1iu1MkA0OlScb4bBTW1J17yuybL7pSS/cGhHOw1IvK/ClzqpjKQMy7zSfhyIMmoZM5d8DSsMeO1Aqr7UlPwpUstgIyfBiXGu79AhFCTOICV1ILXD2FNsIy7G5XCV9HGeFZHO4F8nSKiem4Xnv5zNbAShGiJmFfse2wHXqUMnMAw==
+tokenLineWorks kr1AAABSilFeEWeH3Q7dHkAjWC9z37XviL6oP8L/uj6XWtJFOfhl98ooW+esUsYNbZnOcHjRrmClcl01lTRE5RecEitaYPERlQDE+1VwdCqv/wmJVnusnaHzwjv9LxXJi2zeN6IE7a8rS8S3rRofMOF+PefDtckKqp7wIu1qbB687HNrza6Am5cBR1JN7JnzN603kMa7vqxL3787DYuAXDMRrozFetJyWlSFWc+43Llh4MRx6Xo57T78vM8GeBcrEB2oHfza0rPm0BQ76xd5Fuh3KqVg3A1iu1MkA0OlScb4bBTW1J17yuybL7pSS/cGhHOw1IvK/ClzqpjKQMy7zSfhyIMmoZM5d8DSsMeO1Aqr7UlPwpUstgIyfBiXGu79AhFCTOICV1ILXD2FNsIy7G5XCV9HGeFZHO4F8nSKiem4Xnv5zNbAShGiJmFfse2wHXqUMnMAw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSilFeEWeH3Q7dHkAjWC9z37XviL6oP8L/uj6XWtJFOfhl98ooW+esUsYNbZnOcHjRrmClcl01lTRE5RecEitaYPERlQDE+1VwdCqv/wmJVnusnaHzwjv9LxXJi2zeN6IE7a8rS8S3rRofMOF+PefDtckKqp7wIu1qbB687HNrza6Am5cBR1JN7JnzN603kMa7vqxL3787DYuAXDMRrozFetJyWlSFWc+43Llh4MRx6Xo57T78vM8GeBcrEB2oHfza0rPm0BQ76xd5Fuh3KqVg3A1iu1MkA0OlScb4bBTW1J17yuybL7pSS/cGhHOw1IvK/ClzqpjKQMy7zSfhyIMmoZM5d8DSsMeO1Aqr7UlPwpUstgIyfBiXGu79AhFCTOICV1ILXD2FNsIy7G5XCV9HGeFZHO4F8nSKiem4Xnv5zNbAShGiJmFfse2wHXqUMnMAw==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTMzNzc4MH0.3Zn76jlFG82xYU2pO0bUqRVOtvlG57nBO51GRPgHt3Y
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '04d944987681330b04dfbfe84fdd89ec' }
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSyqCe+miGsGpqFBpO8ayygC7vyfesS00u6y6LOPFVBlbVZSZ9Dn7mOKhW2D95TFzX1xym0STWcxfS149vMAXn7rNc9w1rkFOw7wf/rWbX5VGazx8zCiZohdUX6gmKR0ntWzTav1s3P9Za2lwGrjnwH3lEEJFCewEXwZ8oOq6YwGbgODwwAcLdbZYxM98DMPdA+J/ysPjgq/MbCPXk5VyppkWVlqE2Zhjkk47GI/A4GP4bs05VDgW3RJU4KP++kntLDpi1swUOgMo+bCehHL35K9ioBlAWBJqEzqzPNU64rTLRmP83wd8CCaE6T1s+ZSN0Y8jHUlq62kiXBfSiXqF0WDTAOxKsh3SIJQQZEXR6+wmRoRm1L7IaUk5gcUjpJFOdrYtOb2dXYSR8Q0z03tVLBfziYDNXxACCpZKKwYczLX2jWOsnyTKqbo7wDjdQo60zw==
+tokenLineWorks kr1AAABSyqCe+miGsGpqFBpO8ayygC7vyfesS00u6y6LOPFVBlbVZSZ9Dn7mOKhW2D95TFzX1xym0STWcxfS149vMAXn7rNc9w1rkFOw7wf/rWbX5VGazx8zCiZohdUX6gmKR0ntWzTav1s3P9Za2lwGrjnwH3lEEJFCewEXwZ8oOq6YwGbgODwwAcLdbZYxM98DMPdA+J/ysPjgq/MbCPXk5VyppkWVlqE2Zhjkk47GI/A4GP4bs05VDgW3RJU4KP++kntLDpi1swUOgMo+bCehHL35K9ioBlAWBJqEzqzPNU64rTLRmP83wd8CCaE6T1s+ZSN0Y8jHUlq62kiXBfSiXqF0WDTAOxKsh3SIJQQZEXR6+wmRoRm1L7IaUk5gcUjpJFOdrYtOb2dXYSR8Q0z03tVLBfziYDNXxACCpZKKwYczLX2jWOsnyTKqbo7wDjdQo60zw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSyqCe+miGsGpqFBpO8ayygC7vyfesS00u6y6LOPFVBlbVZSZ9Dn7mOKhW2D95TFzX1xym0STWcxfS149vMAXn7rNc9w1rkFOw7wf/rWbX5VGazx8zCiZohdUX6gmKR0ntWzTav1s3P9Za2lwGrjnwH3lEEJFCewEXwZ8oOq6YwGbgODwwAcLdbZYxM98DMPdA+J/ysPjgq/MbCPXk5VyppkWVlqE2Zhjkk47GI/A4GP4bs05VDgW3RJU4KP++kntLDpi1swUOgMo+bCehHL35K9ioBlAWBJqEzqzPNU64rTLRmP83wd8CCaE6T1s+ZSN0Y8jHUlq62kiXBfSiXqF0WDTAOxKsh3SIJQQZEXR6+wmRoRm1L7IaUk5gcUjpJFOdrYtOb2dXYSR8Q0z03tVLBfziYDNXxACCpZKKwYczLX2jWOsnyTKqbo7wDjdQo60zw==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDY1M30.mxtL_8orleL1K99Mal7RrKexmq93C19yNF81vt_N_KM
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T01:44:14.982Z',
+      messageId: 'ms-f3c2aa90-398d-5217-a8e5-c445414497fd'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSOCuB3TSu+HnhaPcoY4lfvQjurw647ib79zrWKfyRT7xwe3RMG09CO3BXS5ejRWUrY6MGdKa+ewD9OuoK0YLhfzjun4ax0NGD8fMPQ5IDw7rmuIhVlt46eGjxicgp6xGrczGWrEKhDCWUSGhbt53MmhwNn+QVUBqugd+rzRiVuSAm5oxfa76bI4Wu9dtEc+CqAWiK61UeirvwBk/Xwgt290UUH4Sx6QwZEZsqdy35txeaG6Zh54NT4MG9sYaGARjh6sciYfmcYIqo4YEEoC0zxNYIGtTICiQyJfiXJNo+C/QKnsY+j1bxT9LLQ/07N6B3G2Ady73rZm67u9+yY98dpV7R+mVdgaMM1zCS9iYfDyE9blPlCoEPTmkY7GKw3LCefkTpmHoBD7zymzVjCNNBBwdnhwBIHHBOBAmx+YylxadNoxuiKKyrMxIDGMKdljczg==
+tokenLineWorks kr1AAABSOCuB3TSu+HnhaPcoY4lfvQjurw647ib79zrWKfyRT7xwe3RMG09CO3BXS5ejRWUrY6MGdKa+ewD9OuoK0YLhfzjun4ax0NGD8fMPQ5IDw7rmuIhVlt46eGjxicgp6xGrczGWrEKhDCWUSGhbt53MmhwNn+QVUBqugd+rzRiVuSAm5oxfa76bI4Wu9dtEc+CqAWiK61UeirvwBk/Xwgt290UUH4Sx6QwZEZsqdy35txeaG6Zh54NT4MG9sYaGARjh6sciYfmcYIqo4YEEoC0zxNYIGtTICiQyJfiXJNo+C/QKnsY+j1bxT9LLQ/07N6B3G2Ady73rZm67u9+yY98dpV7R+mVdgaMM1zCS9iYfDyE9blPlCoEPTmkY7GKw3LCefkTpmHoBD7zymzVjCNNBBwdnhwBIHHBOBAmx+YylxadNoxuiKKyrMxIDGMKdljczg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSOCuB3TSu+HnhaPcoY4lfvQjurw647ib79zrWKfyRT7xwe3RMG09CO3BXS5ejRWUrY6MGdKa+ewD9OuoK0YLhfzjun4ax0NGD8fMPQ5IDw7rmuIhVlt46eGjxicgp6xGrczGWrEKhDCWUSGhbt53MmhwNn+QVUBqugd+rzRiVuSAm5oxfa76bI4Wu9dtEc+CqAWiK61UeirvwBk/Xwgt290UUH4Sx6QwZEZsqdy35txeaG6Zh54NT4MG9sYaGARjh6sciYfmcYIqo4YEEoC0zxNYIGtTICiQyJfiXJNo+C/QKnsY+j1bxT9LLQ/07N6B3G2Ady73rZm67u9+yY98dpV7R+mVdgaMM1zCS9iYfDyE9blPlCoEPTmkY7GKw3LCefkTpmHoBD7zymzVjCNNBBwdnhwBIHHBOBAmx+YylxadNoxuiKKyrMxIDGMKdljczg==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDY1OH0.vaozRFU_Ze-EKOUUumvinODNuaHknngyrkdbXgPQxlk
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '316783416301286cdf4e952ebc10a908' }
+START
+message 2
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSNnXgUjSrLbC/KF0LuoKZvxl9vzQdu3YQHwMDRfI7ZqpvjThNGW76Zq8dDmdftyVKz5HZ0ZOjYRZu98RISYBhnNf28AazlguLsKIxUwIjAcyz4TTQEh+2WFwLacoCtdG+T2NAVR6YtYg2718Mr3MPyZdSbbUd4vE9XaFd01hdLxMjYbQc7kG8pQzsVkWCG5Vmn6Oyw2n05FAhNyfksEHvUcgalIZI7Yy2fS9YCFE4jn+gWICIQE6zBdoK+HA6qXOIWZzFbpK7ub0rRbWu50ztN8jkJFSwa3uAGWRfxXi1To7nufl7hJx+kOfnlnGfBovK7teqqE2yD5oYojn/NLjHmDNr7Ah3qNPgqs3OBUIK/FK5B8QYHqm44yvqRLZrBVmQJwUmjKjEsH+QGABVX8ldN2uYbqiwHxu1Lpm10vxJXLFJRA3B5+EjUwl2wLKOuvBVg==
+tokenLineWorks kr1AAABSNnXgUjSrLbC/KF0LuoKZvxl9vzQdu3YQHwMDRfI7ZqpvjThNGW76Zq8dDmdftyVKz5HZ0ZOjYRZu98RISYBhnNf28AazlguLsKIxUwIjAcyz4TTQEh+2WFwLacoCtdG+T2NAVR6YtYg2718Mr3MPyZdSbbUd4vE9XaFd01hdLxMjYbQc7kG8pQzsVkWCG5Vmn6Oyw2n05FAhNyfksEHvUcgalIZI7Yy2fS9YCFE4jn+gWICIQE6zBdoK+HA6qXOIWZzFbpK7ub0rRbWu50ztN8jkJFSwa3uAGWRfxXi1To7nufl7hJx+kOfnlnGfBovK7teqqE2yD5oYojn/NLjHmDNr7Ah3qNPgqs3OBUIK/FK5B8QYHqm44yvqRLZrBVmQJwUmjKjEsH+QGABVX8ldN2uYbqiwHxu1Lpm10vxJXLFJRA3B5+EjUwl2wLKOuvBVg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSNnXgUjSrLbC/KF0LuoKZvxl9vzQdu3YQHwMDRfI7ZqpvjThNGW76Zq8dDmdftyVKz5HZ0ZOjYRZu98RISYBhnNf28AazlguLsKIxUwIjAcyz4TTQEh+2WFwLacoCtdG+T2NAVR6YtYg2718Mr3MPyZdSbbUd4vE9XaFd01hdLxMjYbQc7kG8pQzsVkWCG5Vmn6Oyw2n05FAhNyfksEHvUcgalIZI7Yy2fS9YCFE4jn+gWICIQE6zBdoK+HA6qXOIWZzFbpK7ub0rRbWu50ztN8jkJFSwa3uAGWRfxXi1To7nufl7hJx+kOfnlnGfBovK7teqqE2yD5oYojn/NLjHmDNr7Ah3qNPgqs3OBUIK/FK5B8QYHqm44yvqRLZrBVmQJwUmjKjEsH+QGABVX8ldN2uYbqiwHxu1Lpm10vxJXLFJRA3B5+EjUwl2wLKOuvBVg==
+message 2
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDY4NX0.9zxlkPzD3J1cqKK89Bx3VtdU5YLDi5ERoasknOHfv30
+kore message  {"session":{"new":false},"message":{"type":"text","val":"2"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 내역을 입력해주시기 바랍니다.',
+      createdOn: '2022-11-25T01:44:46.633Z',
+      messageId: 'ms-20ae5497-ce0c-5591-99bd-8dced04615ec'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 내역을 입력해주시기 바랍니다."
+START
+message 웹훅 안되잖아요
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABQsdheLqk7hevTzGLc91OUfqpJLEJLepTzqIox2hsj2KB1grXwOoEwwvSdL0ptrZdKgrvyWkPEnhYs+PHPhDZLq0K/VVcPf8c16n4YJBDw+Bz8f7henNE8E6iuHNsuxp4DggpjJk+zU6EdfvIy6Ipbri8tXSTO9GZebqdN/EiT7XHEcy8022rmhtwq2Ux/rK1svzLvbrcKQg40DDyUJMEabH8Z1UQcjEQ1XaZcwkXU+JpVVBH19M/OSSmE3lM0v1kZdsK4OYFhpUlUTolmpyUkNxSxHxMHIu3+okhiCj2StqIhk7Cw/pfCBFp1vWLsSyD6qohxbIKUls8N+JW7XVXlgrixRbqQoy0iO4DTyy63SicuoeRRLCc8cNk7ZdmMVaaPw77/tVd208f1l3Tn+5amI9gWGcI6XETzG6vFOo3LEtAAfpndbMj23KJLEtxtS7LbA==
+tokenLineWorks kr1AAABQsdheLqk7hevTzGLc91OUfqpJLEJLepTzqIox2hsj2KB1grXwOoEwwvSdL0ptrZdKgrvyWkPEnhYs+PHPhDZLq0K/VVcPf8c16n4YJBDw+Bz8f7henNE8E6iuHNsuxp4DggpjJk+zU6EdfvIy6Ipbri8tXSTO9GZebqdN/EiT7XHEcy8022rmhtwq2Ux/rK1svzLvbrcKQg40DDyUJMEabH8Z1UQcjEQ1XaZcwkXU+JpVVBH19M/OSSmE3lM0v1kZdsK4OYFhpUlUTolmpyUkNxSxHxMHIu3+okhiCj2StqIhk7Cw/pfCBFp1vWLsSyD6qohxbIKUls8N+JW7XVXlgrixRbqQoy0iO4DTyy63SicuoeRRLCc8cNk7ZdmMVaaPw77/tVd208f1l3Tn+5amI9gWGcI6XETzG6vFOo3LEtAAfpndbMj23KJLEtxtS7LbA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABQsdheLqk7hevTzGLc91OUfqpJLEJLepTzqIox2hsj2KB1grXwOoEwwvSdL0ptrZdKgrvyWkPEnhYs+PHPhDZLq0K/VVcPf8c16n4YJBDw+Bz8f7henNE8E6iuHNsuxp4DggpjJk+zU6EdfvIy6Ipbri8tXSTO9GZebqdN/EiT7XHEcy8022rmhtwq2Ux/rK1svzLvbrcKQg40DDyUJMEabH8Z1UQcjEQ1XaZcwkXU+JpVVBH19M/OSSmE3lM0v1kZdsK4OYFhpUlUTolmpyUkNxSxHxMHIu3+okhiCj2StqIhk7Cw/pfCBFp1vWLsSyD6qohxbIKUls8N+JW7XVXlgrixRbqQoy0iO4DTyy63SicuoeRRLCc8cNk7ZdmMVaaPw77/tVd208f1l3Tn+5amI9gWGcI6XETzG6vFOo3LEtAAfpndbMj23KJLEtxtS7LbA==
+message 웹훅 안되잖아요
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDY5NH0.k__UJmVLCpy-8BMAI6S7WIRECtQYrC7aGuFFKY2Sfsc
+kore message  {"session":{"new":false},"message":{"type":"text","val":"웹훅 안되잖아요"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"\\"웹훅 안되잖아요\\" 의 키워드로 검색한 결과 해당 항목의 자가 진단 가이드가 존재합니다. \\n확인 해보시겠습니까?","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:44:55.890Z',
+      messageId: 'ms-d11ea72b-5710-55a4-80a8-bada16155912'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 네
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSANN1yXYPros6H2zLvSEC5cxLUVY+GRSg50znifaS+2JrAiWCzdH1toY5gm9K5ou4iEPGhQiFv7EFm4fquHRt14fVX0y+clgGK70iElms2fUO9yUYVIifdiC6fXy7RKoPlNJbMsM7TtCxMOji6VgJY0pby8L/qkLT4rJSRdwcDgpAAonHT+5a2hPi/VN226R1B4blP0aYDa3oCrVvo1H6b9TguphKhl56kLyzindLND9mk1upC1KHnDOv9JKTkR8sCkS1bkihGPABpUXs7WJ7t/2VpXQQdsoPS0nVpwD83g9B0HuTFvAj3DxPRP+HOeRPS0Rx4hYaRCFriB1/pruGqnDtI9DXxE2yP/llOoDO5bRvJk9WVQjirWfsGTk4vb+lgw69eiCIeE2tEHX1eD8YDUTjOs2pOkPR0kNPOanOK0ByQTSTfi4bvVIXzN9k6DavA==
+tokenLineWorks kr1AAABSANN1yXYPros6H2zLvSEC5cxLUVY+GRSg50znifaS+2JrAiWCzdH1toY5gm9K5ou4iEPGhQiFv7EFm4fquHRt14fVX0y+clgGK70iElms2fUO9yUYVIifdiC6fXy7RKoPlNJbMsM7TtCxMOji6VgJY0pby8L/qkLT4rJSRdwcDgpAAonHT+5a2hPi/VN226R1B4blP0aYDa3oCrVvo1H6b9TguphKhl56kLyzindLND9mk1upC1KHnDOv9JKTkR8sCkS1bkihGPABpUXs7WJ7t/2VpXQQdsoPS0nVpwD83g9B0HuTFvAj3DxPRP+HOeRPS0Rx4hYaRCFriB1/pruGqnDtI9DXxE2yP/llOoDO5bRvJk9WVQjirWfsGTk4vb+lgw69eiCIeE2tEHX1eD8YDUTjOs2pOkPR0kNPOanOK0ByQTSTfi4bvVIXzN9k6DavA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSANN1yXYPros6H2zLvSEC5cxLUVY+GRSg50znifaS+2JrAiWCzdH1toY5gm9K5ou4iEPGhQiFv7EFm4fquHRt14fVX0y+clgGK70iElms2fUO9yUYVIifdiC6fXy7RKoPlNJbMsM7TtCxMOji6VgJY0pby8L/qkLT4rJSRdwcDgpAAonHT+5a2hPi/VN226R1B4blP0aYDa3oCrVvo1H6b9TguphKhl56kLyzindLND9mk1upC1KHnDOv9JKTkR8sCkS1bkihGPABpUXs7WJ7t/2VpXQQdsoPS0nVpwD83g9B0HuTFvAj3DxPRP+HOeRPS0Rx4hYaRCFriB1/pruGqnDtI9DXxE2yP/llOoDO5bRvJk9WVQjirWfsGTk4vb+lgw69eiCIeE2tEHX1eD8YDUTjOs2pOkPR0kNPOanOK0ByQTSTfi4bvVIXzN9k6DavA==
+message 네
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDY5OH0.rNnTI1f9M3XI8_MzWqpY8Kkt2tTOkq13WG11tpiOF1E
+kore message  {"session":{"new":false},"message":{"type":"text","val":"네"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object],[object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"carousel","contents":[{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=1Ew0EP0rZFNmKqoOlaOvRw&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"해당 모델에 맞는 정격 어댑터인지 확인해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"노트북 바닥면에 표기 된 정격 전압/전류와 어댑터에 표기 된 내용이 일치하는지 확인해주세요.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=H1K2SE8fSaW9XKLwtaKQA&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"전원 어댑터 연결 부위를 확인해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"2핀 어댑터인 경우 전원 콘세트와 노트북 연결 부위가 헐겁지 않은지 확인 후 꽉 꽂아주세요. \\n 3핀 어댑터인 경우 전원 콘세트, 전원 케이블과 어댑터, 노트북 연결 부위가 헐겁지 않은지 확인해주세요.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=QvkJqe4eteWLd7C8dBL2A&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"충전이 80%에서 멈추고 100% 충전이 되지 않는 경우","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"배터리를 오래 사용하기 위한 [배터리 수명 연장] 기능이 켜져 있는지 LG Control Center에서 확인해주세요","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=elDaTAFsei93ACeOaalYYQ&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"배터리 수명 확인을 해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"[LG Control Center] - [전원관리 설정] 에서 배터리 수명 확인을 할 수 있습니다. \\n 오랜 기간 동안 사용으로 배터리 수명 말기에 충전이 안 될 수 있으며 이 경우 배터리 교체가 필요합니다.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=4iidthHyX5Tc6EhrRKESg&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"배터리 100% 충전되지 않았는데 완전 충전으로 인식으로 [충전 안 함]의 경우","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"배터리가 한 번 완전 충전되면 배터리 충전을 멈추고 배터리 용량이 95% 밑으로 떨어져야, 충전을 다시 시작합니다. \\n이는 배터리를 안전하고 효율적으로 사용하기 위함이며, 충전하지 않고 있는 것은 정상입니다.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}}]}}}',
+      createdOn: '2022-11-25T01:44:59.251Z',
+      messageId: 'ms-2bb6ab4d-2399-5f7d-8101-0951e317f276'
+    },
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"자가 진단 가이드로 해결이 되지 않으신 경우 고장 접수가 가능합니다.\\n고장 접수를 진행하시겠습니까?","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:44:59.478Z',
+      messageId: 'ms-af784e64-c708-532a-bcfd-d97b7f6a54d6'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 네
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSSWT0D9m3SH52dE44Y5s39PH3qoXL2jUL7x4DDCE8xKoyu+M+DzWFvot8lMKpgrqWtL/skdKgbKVH8XBwwpn13DqerzALipI6a6H6szuXOp5UQH//574uGTyp+cI/49B9dCMKySHgcBJ5b65HrV2AUhusanizO6xa7mxEJYQR0bG/4rWkQRe5lFvQp5DldPUOXBQS/vX7MxS7nGzlYqzYbdW92CHmwjuyD08r6C/Dl2d/vSZzJzADRt2WtpMcbDZWkzjt3qz7dBNwKAvPoFGlEOrk72RZ6lDRp3kUkMzjhi69bp7Tv+TS1ugMKjt3wsRq+XCybU/BnRy6vJAifZQjX0SYjRsTrJjVkeJof/PyGQNJFia8xzeB8z2NrCyb9eIPTlgi8eeWRwfAlf23aVfbl+fvwb1sI8EffTajSK7pVhaRDMYPODirGxEKpzflnkxGg==
+tokenLineWorks kr1AAABSSWT0D9m3SH52dE44Y5s39PH3qoXL2jUL7x4DDCE8xKoyu+M+DzWFvot8lMKpgrqWtL/skdKgbKVH8XBwwpn13DqerzALipI6a6H6szuXOp5UQH//574uGTyp+cI/49B9dCMKySHgcBJ5b65HrV2AUhusanizO6xa7mxEJYQR0bG/4rWkQRe5lFvQp5DldPUOXBQS/vX7MxS7nGzlYqzYbdW92CHmwjuyD08r6C/Dl2d/vSZzJzADRt2WtpMcbDZWkzjt3qz7dBNwKAvPoFGlEOrk72RZ6lDRp3kUkMzjhi69bp7Tv+TS1ugMKjt3wsRq+XCybU/BnRy6vJAifZQjX0SYjRsTrJjVkeJof/PyGQNJFia8xzeB8z2NrCyb9eIPTlgi8eeWRwfAlf23aVfbl+fvwb1sI8EffTajSK7pVhaRDMYPODirGxEKpzflnkxGg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSSWT0D9m3SH52dE44Y5s39PH3qoXL2jUL7x4DDCE8xKoyu+M+DzWFvot8lMKpgrqWtL/skdKgbKVH8XBwwpn13DqerzALipI6a6H6szuXOp5UQH//574uGTyp+cI/49B9dCMKySHgcBJ5b65HrV2AUhusanizO6xa7mxEJYQR0bG/4rWkQRe5lFvQp5DldPUOXBQS/vX7MxS7nGzlYqzYbdW92CHmwjuyD08r6C/Dl2d/vSZzJzADRt2WtpMcbDZWkzjt3qz7dBNwKAvPoFGlEOrk72RZ6lDRp3kUkMzjhi69bp7Tv+TS1ugMKjt3wsRq+XCybU/BnRy6vJAifZQjX0SYjRsTrJjVkeJof/PyGQNJFia8xzeB8z2NrCyb9eIPTlgi8eeWRwfAlf23aVfbl+fvwb1sI8EffTajSK7pVhaRDMYPODirGxEKpzflnkxGg==
+message 네
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDcwMn0.vzEA8Kuoc3FGbQRLG-QCpjxGexgkYPNdH1kflB_3-Cg
+kore message  {"session":{"new":false},"message":{"type":"text","val":"네"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"고장 접수를 신청하시겠습니까? \\n■ 신청자 : 박인선 \\n■ 자산번호 : 2 \\n■ 고장내역 : 웹훅 안되잖아요","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:45:03.520Z',
+      messageId: 'ms-7b3839f2-522e-5037-aa31-7ff1511c036b'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 네
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSg2z0nUH4BdQvZmH+NOSxuWBsu6Guq0glPXLa5j3I4XWzoKZUfLMZKkbM41VtlMnU4sORsuyM6K3d7d9512ENp/MdeyZpmavbiwAi4Fit8uOUIifMKA9xNiE+9y6sUTAhEASuuPDb5S28f7XmW5o+HEi0uSjnsAA7+u0KYrWcxIl+b2F68zqEsd8OY09xgKw5q52rIzCCcmjIyVWr61Qz20oJicLOzfaJMJeAPWCvF9eCnE4T00as6Zln/qU61LzHz49WLvanDtOx8aubc83P2kWrFNj/X/oMAGngiq6CfZYwE2a7TZ+CZNpzeR2qciQmXg6v45slrsmXsYwIpgBidJl+pl0scoxwtHHN2uhrKIcdHXm2G5OTavZ7dsVtDpbsv8GCTpEOHoB7HQaWOaX29SzHAfApGVtobBAsAgIfUDc3wcO+EhlUcOYG/VdjyKX6w==
+tokenLineWorks kr1AAABSg2z0nUH4BdQvZmH+NOSxuWBsu6Guq0glPXLa5j3I4XWzoKZUfLMZKkbM41VtlMnU4sORsuyM6K3d7d9512ENp/MdeyZpmavbiwAi4Fit8uOUIifMKA9xNiE+9y6sUTAhEASuuPDb5S28f7XmW5o+HEi0uSjnsAA7+u0KYrWcxIl+b2F68zqEsd8OY09xgKw5q52rIzCCcmjIyVWr61Qz20oJicLOzfaJMJeAPWCvF9eCnE4T00as6Zln/qU61LzHz49WLvanDtOx8aubc83P2kWrFNj/X/oMAGngiq6CfZYwE2a7TZ+CZNpzeR2qciQmXg6v45slrsmXsYwIpgBidJl+pl0scoxwtHHN2uhrKIcdHXm2G5OTavZ7dsVtDpbsv8GCTpEOHoB7HQaWOaX29SzHAfApGVtobBAsAgIfUDc3wcO+EhlUcOYG/VdjyKX6w==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSg2z0nUH4BdQvZmH+NOSxuWBsu6Guq0glPXLa5j3I4XWzoKZUfLMZKkbM41VtlMnU4sORsuyM6K3d7d9512ENp/MdeyZpmavbiwAi4Fit8uOUIifMKA9xNiE+9y6sUTAhEASuuPDb5S28f7XmW5o+HEi0uSjnsAA7+u0KYrWcxIl+b2F68zqEsd8OY09xgKw5q52rIzCCcmjIyVWr61Qz20oJicLOzfaJMJeAPWCvF9eCnE4T00as6Zln/qU61LzHz49WLvanDtOx8aubc83P2kWrFNj/X/oMAGngiq6CfZYwE2a7TZ+CZNpzeR2qciQmXg6v45slrsmXsYwIpgBidJl+pl0scoxwtHHN2uhrKIcdHXm2G5OTavZ7dsVtDpbsv8GCTpEOHoB7HQaWOaX29SzHAfApGVtobBAsAgIfUDc3wcO+EhlUcOYG/VdjyKX6w==
+message 네
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDcwNn0.hDGc5eRaihhVcwx12VOo9OjrY33MfUBKbQICr6Yvmvk
+kore message  {"session":{"new":false},"message":{"type":"text","val":"네"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"고장 접수가 정상적으로 처리되었습니다.\\n담당자 확인 후 처리될 예정입니다.\\n담당자와 연락을 원하시는 경우 아래 정보를 참고하시기 바랍니다.\\n■ 담당자 : 홍길동\\n■ 연락처 : 02-1234-2532","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"고장 접수 조회","text":"고장 접수 조회"},"type":"button","height":"sm","style":"primary"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:45:07.487Z',
+      messageId: 'ms-57146151-d6f1-5001-b085-bd2d24ca3c23'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 고장 접수 조회
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRxJ9k1g1r7xw5lj0Gi9Nykhqu4hhwqXKsWa8d90alp4Eq59oO6WospzTQLwAw417/lcl2/HqOWtRqxXAmF7cx+49giQyjzFvOKIRIpzoE5Stfm4qzfrHwb6UhzBocOwrPy89DEm4+/ZtNzwumdKaWA64I98J6YouR0pnRVjC5Arign+4bI00FEUH1juAa0Aro/U7vN312W/ta41+SGva5gYDxeL9YRctfEDt2RBT4uufB0WwNm0TRRsikFrezR8GyVZsYZj/Tiv7ngvCWO9AHHGJSIzIXoOqx1QbY5S+96vYwHS4Uya2wSk5GuB+UWn4L2y9PlweTLGtg33GqcRp1Dn6OD+3yF0plItxwKgbHPmrRy9w2TjR2HFZzRnioBZuJjPvsJgMW1RU+usANS9lx1ws5EgXyWEHngfdL597Q/25Erl7QmXuXGtF43mwhz3v5w==
+tokenLineWorks kr1AAABRxJ9k1g1r7xw5lj0Gi9Nykhqu4hhwqXKsWa8d90alp4Eq59oO6WospzTQLwAw417/lcl2/HqOWtRqxXAmF7cx+49giQyjzFvOKIRIpzoE5Stfm4qzfrHwb6UhzBocOwrPy89DEm4+/ZtNzwumdKaWA64I98J6YouR0pnRVjC5Arign+4bI00FEUH1juAa0Aro/U7vN312W/ta41+SGva5gYDxeL9YRctfEDt2RBT4uufB0WwNm0TRRsikFrezR8GyVZsYZj/Tiv7ngvCWO9AHHGJSIzIXoOqx1QbY5S+96vYwHS4Uya2wSk5GuB+UWn4L2y9PlweTLGtg33GqcRp1Dn6OD+3yF0plItxwKgbHPmrRy9w2TjR2HFZzRnioBZuJjPvsJgMW1RU+usANS9lx1ws5EgXyWEHngfdL597Q/25Erl7QmXuXGtF43mwhz3v5w==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRxJ9k1g1r7xw5lj0Gi9Nykhqu4hhwqXKsWa8d90alp4Eq59oO6WospzTQLwAw417/lcl2/HqOWtRqxXAmF7cx+49giQyjzFvOKIRIpzoE5Stfm4qzfrHwb6UhzBocOwrPy89DEm4+/ZtNzwumdKaWA64I98J6YouR0pnRVjC5Arign+4bI00FEUH1juAa0Aro/U7vN312W/ta41+SGva5gYDxeL9YRctfEDt2RBT4uufB0WwNm0TRRsikFrezR8GyVZsYZj/Tiv7ngvCWO9AHHGJSIzIXoOqx1QbY5S+96vYwHS4Uya2wSk5GuB+UWn4L2y9PlweTLGtg33GqcRp1Dn6OD+3yF0plItxwKgbHPmrRy9w2TjR2HFZzRnioBZuJjPvsJgMW1RU+usANS9lx1ws5EgXyWEHngfdL597Q/25Erl7QmXuXGtF43mwhz3v5w==
+message 고장 접수 조회
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDcxMX0.lSf7EFMdRbzN7r05FCt6pZk3b_wGXKsHNLOCdm4uIvo
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수 조회"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","body":{"layout":"vertical","type":"box","contents":[{"text":"사내에 보유중인 자산 목록입니다.","type":"text","size":"sm","weight":"bold"}]},"footer":{"type":"box","layout":"vertical","contents":[{"layout":"horizontal","type":"box","contents":[{"type":"button","style":"primary","action":{"type":"message","label":"노트북","text":"노트북"},"color":"#0E71EB","height":"sm","margin":"xs"},{"action":{"type":"message","label":"모니터","text":"모니터"},"type":"button","height":"sm","style":"secondary","color":"#C1AEEE","margin":"xs"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:45:13.102Z',
+      messageId: 'ms-e3f12a60-0543-5d72-9b28-9a1b1a08b6b3'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Fulfilled',
+  completedTaskId: 'dg-000d4c4c-31ce-5906-a42f-fcf30883505c',
+  completedTaskName: 'create incident'
+}
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSRf5jzO7pc9jRjQCN1fUgMIkBzxrFhr+lRyktfylot4Ez4024utsjyzKeBAyYHnmc70XuPFOjJM4ce+4lt8ExCRbx408q8vE9EAbMBRD03pdY9Tuu7n9143kRsC+KgjnSrxP1ntBfdUPeozz0UGHcZBrEMnbpJyBplMyNAWgWNDtxJ+KaL3fGfCiTUEHJ7m/urCMeaUo5I5sftO3yGFN7CSG6q0AkDhAxNBMX48SZbY6XFj+oUOUy2Uw7YjvDI3GPMtYATEy7zNEdesVgEuXGwy1i+E4ni625fXJy2ffH4MNCeRhbdhuanhOqBi1gXoCY/CdFn2Xtdn850KtROGJaP3F6tRoWlgS8Wpfb51WWM+oalDAZrkzF8Jv4wNjatLtQnidqxWurI8ES7bZj7WI0seGSbnv8oLDGqHBAVBdmbbyJBE5mDHs/uG3EzPLfN3KlQ==
+tokenLineWorks kr1AAABSRf5jzO7pc9jRjQCN1fUgMIkBzxrFhr+lRyktfylot4Ez4024utsjyzKeBAyYHnmc70XuPFOjJM4ce+4lt8ExCRbx408q8vE9EAbMBRD03pdY9Tuu7n9143kRsC+KgjnSrxP1ntBfdUPeozz0UGHcZBrEMnbpJyBplMyNAWgWNDtxJ+KaL3fGfCiTUEHJ7m/urCMeaUo5I5sftO3yGFN7CSG6q0AkDhAxNBMX48SZbY6XFj+oUOUy2Uw7YjvDI3GPMtYATEy7zNEdesVgEuXGwy1i+E4ni625fXJy2ffH4MNCeRhbdhuanhOqBi1gXoCY/CdFn2Xtdn850KtROGJaP3F6tRoWlgS8Wpfb51WWM+oalDAZrkzF8Jv4wNjatLtQnidqxWurI8ES7bZj7WI0seGSbnv8oLDGqHBAVBdmbbyJBE5mDHs/uG3EzPLfN3KlQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSRf5jzO7pc9jRjQCN1fUgMIkBzxrFhr+lRyktfylot4Ez4024utsjyzKeBAyYHnmc70XuPFOjJM4ce+4lt8ExCRbx408q8vE9EAbMBRD03pdY9Tuu7n9143kRsC+KgjnSrxP1ntBfdUPeozz0UGHcZBrEMnbpJyBplMyNAWgWNDtxJ+KaL3fGfCiTUEHJ7m/urCMeaUo5I5sftO3yGFN7CSG6q0AkDhAxNBMX48SZbY6XFj+oUOUy2Uw7YjvDI3GPMtYATEy7zNEdesVgEuXGwy1i+E4ni625fXJy2ffH4MNCeRhbdhuanhOqBi1gXoCY/CdFn2Xtdn850KtROGJaP3F6tRoWlgS8Wpfb51WWM+oalDAZrkzF8Jv4wNjatLtQnidqxWurI8ES7bZj7WI0seGSbnv8oLDGqHBAVBdmbbyJBE5mDHs/uG3EzPLfN3KlQ==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg0Nn0.p8VfpXPRmCmO5Yd7dNsbCtbBmjmGrnrnMaWamm8pB8Q
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-25T01:47:27.482Z',
+      messageId: 'ms-5bd50c69-e9e1-5d2d-b4ed-a3b8d6076b8c'
+    }
+  ],
+  _v: 'v2',
+  endOfTask: true,
+  endReason: 'Cancelled',
+  completedTaskId: 'dg-e48a3d2d-6eb8-56b2-9541-2ce6c51728dd',
+  completedTaskName: 'purchaserequest'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRfTq5kpyVgDhkVIrSCmhyF7yjicMqCPmliHotrZeCKIk52bGxJ4TgHIVWXlky6UWcG5gjIbw9qkqUqmy4x6LP030cnncZpf4mEmDC4xHrw5kSFjry6NYkA1kpeTQ+1VsQDXVD4CrK2dEKJTLJuR3I+YmPO33QdhgvcpOi5bHiNiKIq5jN5z6gQsNbBeD6NR2lUFJQK8Wpdh59ftS4OW3YvcXH7pz/7mIfD+ZuOXtjUG2Td4/77COAXIx+QUvGrCZgEgXTXCkGyuztJ9uuu5ukHM/mCloQFLlebiTkAwvdh0A4Jroo+v5kuWbTpAzH1h6xAJ8LSXwnSoEpkoGCDKwfEW2S0UIu9yaAEskkdiprUoIm5U6j5cdalGCZKQM+fU7sJixrhHqo6AfEIxHqf9NIJwzs3UTEgKLa7cFB4dePJPj0BBkCmHiHxiavYTiDcniRA==
+tokenLineWorks kr1AAABRfTq5kpyVgDhkVIrSCmhyF7yjicMqCPmliHotrZeCKIk52bGxJ4TgHIVWXlky6UWcG5gjIbw9qkqUqmy4x6LP030cnncZpf4mEmDC4xHrw5kSFjry6NYkA1kpeTQ+1VsQDXVD4CrK2dEKJTLJuR3I+YmPO33QdhgvcpOi5bHiNiKIq5jN5z6gQsNbBeD6NR2lUFJQK8Wpdh59ftS4OW3YvcXH7pz/7mIfD+ZuOXtjUG2Td4/77COAXIx+QUvGrCZgEgXTXCkGyuztJ9uuu5ukHM/mCloQFLlebiTkAwvdh0A4Jroo+v5kuWbTpAzH1h6xAJ8LSXwnSoEpkoGCDKwfEW2S0UIu9yaAEskkdiprUoIm5U6j5cdalGCZKQM+fU7sJixrhHqo6AfEIxHqf9NIJwzs3UTEgKLa7cFB4dePJPj0BBkCmHiHxiavYTiDcniRA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRfTq5kpyVgDhkVIrSCmhyF7yjicMqCPmliHotrZeCKIk52bGxJ4TgHIVWXlky6UWcG5gjIbw9qkqUqmy4x6LP030cnncZpf4mEmDC4xHrw5kSFjry6NYkA1kpeTQ+1VsQDXVD4CrK2dEKJTLJuR3I+YmPO33QdhgvcpOi5bHiNiKIq5jN5z6gQsNbBeD6NR2lUFJQK8Wpdh59ftS4OW3YvcXH7pz/7mIfD+ZuOXtjUG2Td4/77COAXIx+QUvGrCZgEgXTXCkGyuztJ9uuu5ukHM/mCloQFLlebiTkAwvdh0A4Jroo+v5kuWbTpAzH1h6xAJ8LSXwnSoEpkoGCDKwfEW2S0UIu9yaAEskkdiprUoIm5U6j5cdalGCZKQM+fU7sJixrhHqo6AfEIxHqf9NIJwzs3UTEgKLa7cFB4dePJPj0BBkCmHiHxiavYTiDcniRA==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg1MH0.IEyUK6cLKFpbC7-Hd5juCGkef3BjwqOhnI2xif_Pu48
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T01:47:31.484Z',
+      messageId: 'ms-82aab302-8d39-5c44-9c5e-ff96de4f36df'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 박인선
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABR1NwJmci+SRZD6nMid9VDiponD6lzopuKoZk5xGW68XgCUd+IwSF/smJyVBF3VYPEJcEMyKv3/IIsMANgRIbQxMQT3DDnYtqjnH+hnTBZDSQBZb04Y0oXZWaImkh3KM2OamYT4PxRmkNr9IZBw/r4cM7X8b38vGEaRews+3RgVdKapLbSzs60zljM4oOhV03w5y0ZVpeAxCZQVepaRwX7w7B2SnxvIw/RyHB+w4KYutckgI8gSg5Bd+GEGD2DhZ/yLx+7R54JvBOMDv6IzOdnUy2JwCbvfkmAiUxFzmHf3xg09L7cKd5JW4cwAAj8n4c2tAABSnv0+TKz0hUCIdyrDhR1kexm/JTkyCVLiwmm2aNtXtbAQQh219jle/llGTb299ryF+1wRigUpxZcrBuCqGCyytF7VoRqyS9ovdVYagwUhiv07iYqyNxLNA+DSpVNw==
+tokenLineWorks kr1AAABR1NwJmci+SRZD6nMid9VDiponD6lzopuKoZk5xGW68XgCUd+IwSF/smJyVBF3VYPEJcEMyKv3/IIsMANgRIbQxMQT3DDnYtqjnH+hnTBZDSQBZb04Y0oXZWaImkh3KM2OamYT4PxRmkNr9IZBw/r4cM7X8b38vGEaRews+3RgVdKapLbSzs60zljM4oOhV03w5y0ZVpeAxCZQVepaRwX7w7B2SnxvIw/RyHB+w4KYutckgI8gSg5Bd+GEGD2DhZ/yLx+7R54JvBOMDv6IzOdnUy2JwCbvfkmAiUxFzmHf3xg09L7cKd5JW4cwAAj8n4c2tAABSnv0+TKz0hUCIdyrDhR1kexm/JTkyCVLiwmm2aNtXtbAQQh219jle/llGTb299ryF+1wRigUpxZcrBuCqGCyytF7VoRqyS9ovdVYagwUhiv07iYqyNxLNA+DSpVNw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABR1NwJmci+SRZD6nMid9VDiponD6lzopuKoZk5xGW68XgCUd+IwSF/smJyVBF3VYPEJcEMyKv3/IIsMANgRIbQxMQT3DDnYtqjnH+hnTBZDSQBZb04Y0oXZWaImkh3KM2OamYT4PxRmkNr9IZBw/r4cM7X8b38vGEaRews+3RgVdKapLbSzs60zljM4oOhV03w5y0ZVpeAxCZQVepaRwX7w7B2SnxvIw/RyHB+w4KYutckgI8gSg5Bd+GEGD2DhZ/yLx+7R54JvBOMDv6IzOdnUy2JwCbvfkmAiUxFzmHf3xg09L7cKd5JW4cwAAj8n4c2tAABSnv0+TKz0hUCIdyrDhR1kexm/JTkyCVLiwmm2aNtXtbAQQh219jle/llGTb299ryF+1wRigUpxZcrBuCqGCyytF7VoRqyS9ovdVYagwUhiv07iYqyNxLNA+DSpVNw==
+message 박인선
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg1M30.0RXJgV2J-J4tROhLQx8YH2mPfb-5cCtW6UUdisqdExQ
+kore message  {"session":{"new":false},"message":{"type":"text","val":"박인선"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '0577d3e73f2009a40d3adbcbf8d27345' }
+START
+message 1
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABQYfRGBQCLhdmPZg0A4Lo3rcQ7ZRx1KrIZ5eWPhajwo902RQV82LTOheLDQi+ZbPmAYnPKFGs4eVldFM1Ro1PLZIVtZTNg4H42yWmkOsMAhg5IBCJ+oQ+WLInAGlWPkYHS9KItAWLY/9DKziHbdC2vIdggmGKoBf5I6o9uTxn0e/UmZEKB9woMx4gVu/Jashr9f5cCb9TgNZ81ucUvpcq/g7+72XBhw4aiXYOPdngy8Zcx8ZkV3BnHIB18ZWNgj9JQ2LARYCBjuYyI/+agVefOHfY/Lvs3LJ7JH3tNEFPTBKjFI0LzTv13rkyovvdaZD/Pc92wFYd61ImCG88O+wdd0h7oM6vjB4v715RiXoc4KB5HLDSbUAjvVPm5ZM1JKUMhRIKj85GgxlfYwm9mer8S2Ni6IbLgyGFTqa3EV54vwfXcZDaalYkAGuGCEBOBzIatQ==
+tokenLineWorks kr1AAABQYfRGBQCLhdmPZg0A4Lo3rcQ7ZRx1KrIZ5eWPhajwo902RQV82LTOheLDQi+ZbPmAYnPKFGs4eVldFM1Ro1PLZIVtZTNg4H42yWmkOsMAhg5IBCJ+oQ+WLInAGlWPkYHS9KItAWLY/9DKziHbdC2vIdggmGKoBf5I6o9uTxn0e/UmZEKB9woMx4gVu/Jashr9f5cCb9TgNZ81ucUvpcq/g7+72XBhw4aiXYOPdngy8Zcx8ZkV3BnHIB18ZWNgj9JQ2LARYCBjuYyI/+agVefOHfY/Lvs3LJ7JH3tNEFPTBKjFI0LzTv13rkyovvdaZD/Pc92wFYd61ImCG88O+wdd0h7oM6vjB4v715RiXoc4KB5HLDSbUAjvVPm5ZM1JKUMhRIKj85GgxlfYwm9mer8S2Ni6IbLgyGFTqa3EV54vwfXcZDaalYkAGuGCEBOBzIatQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABQYfRGBQCLhdmPZg0A4Lo3rcQ7ZRx1KrIZ5eWPhajwo902RQV82LTOheLDQi+ZbPmAYnPKFGs4eVldFM1Ro1PLZIVtZTNg4H42yWmkOsMAhg5IBCJ+oQ+WLInAGlWPkYHS9KItAWLY/9DKziHbdC2vIdggmGKoBf5I6o9uTxn0e/UmZEKB9woMx4gVu/Jashr9f5cCb9TgNZ81ucUvpcq/g7+72XBhw4aiXYOPdngy8Zcx8ZkV3BnHIB18ZWNgj9JQ2LARYCBjuYyI/+agVefOHfY/Lvs3LJ7JH3tNEFPTBKjFI0LzTv13rkyovvdaZD/Pc92wFYd61ImCG88O+wdd0h7oM6vjB4v715RiXoc4KB5HLDSbUAjvVPm5ZM1JKUMhRIKj85GgxlfYwm9mer8S2Ni6IbLgyGFTqa3EV54vwfXcZDaalYkAGuGCEBOBzIatQ==
+message 1
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg1OH0.shgT4Kvoj4W-tC9yVU1v2nioxJiwYa1jj_7o5e03xWU
+kore message  {"session":{"new":false},"message":{"type":"text","val":"1"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 내역을 입력해주시기 바랍니다.',
+      createdOn: '2022-11-25T01:47:39.254Z',
+      messageId: 'ms-768f4a4b-8a8c-5c19-b3f8-fdc818a5ef61'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 내역을 입력해주시기 바랍니다."
+START
+message 나야모르지
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSVUyBOhi3moK1MOIJxcEbXpdEqjogdNE3fOOpzRzgFVsHA62Rq5aysp3kctHBl6yy/dCN6fOVfoACp6/WXzAmC5UYfSMOLKxQcUzneCblMpFcOr7+YS/EKLMjTb04eXlilyinFTgV/bjlrytBqY9W/E/VMeWFzCkClQtOq2/qBjLPDdae+y8HOpbvSvKbpd7T4OhP5vkZIwJuf9g6N2FZCjzJ3kUXh5js9lTC1JXex+9q67vzohj2aCnkYwee/EgsYHt41KDwod2EWc+ZCb4UFBdgdxOVp8WIWgHXQqGr4r3OExO0MX1B854CG2pyj4BZ5qNO3bgCOROxBTf6xXSjuRqXB5l9Q/75nyhX0W5apDbyKC0kbukGWTR87NH41XcYX77Yroxijot16w5yjuX8Ydb+zB+vMlitIt0Rp1Ouh01V/tNoNRO2j2vYNxGtYbzJA==
+tokenLineWorks kr1AAABSVUyBOhi3moK1MOIJxcEbXpdEqjogdNE3fOOpzRzgFVsHA62Rq5aysp3kctHBl6yy/dCN6fOVfoACp6/WXzAmC5UYfSMOLKxQcUzneCblMpFcOr7+YS/EKLMjTb04eXlilyinFTgV/bjlrytBqY9W/E/VMeWFzCkClQtOq2/qBjLPDdae+y8HOpbvSvKbpd7T4OhP5vkZIwJuf9g6N2FZCjzJ3kUXh5js9lTC1JXex+9q67vzohj2aCnkYwee/EgsYHt41KDwod2EWc+ZCb4UFBdgdxOVp8WIWgHXQqGr4r3OExO0MX1B854CG2pyj4BZ5qNO3bgCOROxBTf6xXSjuRqXB5l9Q/75nyhX0W5apDbyKC0kbukGWTR87NH41XcYX77Yroxijot16w5yjuX8Ydb+zB+vMlitIt0Rp1Ouh01V/tNoNRO2j2vYNxGtYbzJA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSVUyBOhi3moK1MOIJxcEbXpdEqjogdNE3fOOpzRzgFVsHA62Rq5aysp3kctHBl6yy/dCN6fOVfoACp6/WXzAmC5UYfSMOLKxQcUzneCblMpFcOr7+YS/EKLMjTb04eXlilyinFTgV/bjlrytBqY9W/E/VMeWFzCkClQtOq2/qBjLPDdae+y8HOpbvSvKbpd7T4OhP5vkZIwJuf9g6N2FZCjzJ3kUXh5js9lTC1JXex+9q67vzohj2aCnkYwee/EgsYHt41KDwod2EWc+ZCb4UFBdgdxOVp8WIWgHXQqGr4r3OExO0MX1B854CG2pyj4BZ5qNO3bgCOROxBTf6xXSjuRqXB5l9Q/75nyhX0W5apDbyKC0kbukGWTR87NH41XcYX77Yroxijot16w5yjuX8Ydb+zB+vMlitIt0Rp1Ouh01V/tNoNRO2j2vYNxGtYbzJA==
+message 나야모르지
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg2NX0.rU6z9dFeTS3JiIxAGQQ43UnKoKpaSzhF6JcbfGgUjR0
+kore message  {"session":{"new":false},"message":{"type":"text","val":"나야모르지"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"\\"나야모르지\\" 의 키워드로 검색한 결과 해당 항목의 자가 진단 가이드가 존재합니다. \\n확인 해보시겠습니까?","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:47:47.277Z',
+      messageId: 'ms-e79f6d8d-af0e-568a-864e-a554c8477dcc'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 네
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSHtcOKejy7plaa8YExKBVGKtJNZVwgTN9bSuXkrJd6flavlQ4zD8ZVeBlP8HVG5mNOhuTApd+Ol2mY2lx8yQUS/6xEUpsACjsL4JDYBiQLkcTZtu//CtqfqyyaJ1yv3/RCjww7LsazL4+4qMVv/QEYwnuHQQwP4Hm9k7CS3zgnGTKWJU1kq0i5YcKKOnGqnqfCUT+DcBCHfGyAXTS0hYh0VSd5+WeUNTA4E9UhIxEdD8LmUKJfFyXjp1BBWV49bNoj4nSY5X1x7w4tsVnmR/Rq8+ny426hopRUedltbZ2WLU7y6VpxYDv8t5nOKu0MXiSoAN+iJyEZcjqxAjTjjvgChDgPpMxxWcd++1znB50DEQXrPl23gtw1W/ep0oLcUjIFX0qar4GuA5h50OTsRPV3UPcmqcyMgio1hYO0kT/TbIh83fZfmrRNPN1iY7Wp+tOQ==
+tokenLineWorks kr1AAABSHtcOKejy7plaa8YExKBVGKtJNZVwgTN9bSuXkrJd6flavlQ4zD8ZVeBlP8HVG5mNOhuTApd+Ol2mY2lx8yQUS/6xEUpsACjsL4JDYBiQLkcTZtu//CtqfqyyaJ1yv3/RCjww7LsazL4+4qMVv/QEYwnuHQQwP4Hm9k7CS3zgnGTKWJU1kq0i5YcKKOnGqnqfCUT+DcBCHfGyAXTS0hYh0VSd5+WeUNTA4E9UhIxEdD8LmUKJfFyXjp1BBWV49bNoj4nSY5X1x7w4tsVnmR/Rq8+ny426hopRUedltbZ2WLU7y6VpxYDv8t5nOKu0MXiSoAN+iJyEZcjqxAjTjjvgChDgPpMxxWcd++1znB50DEQXrPl23gtw1W/ep0oLcUjIFX0qar4GuA5h50OTsRPV3UPcmqcyMgio1hYO0kT/TbIh83fZfmrRNPN1iY7Wp+tOQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSHtcOKejy7plaa8YExKBVGKtJNZVwgTN9bSuXkrJd6flavlQ4zD8ZVeBlP8HVG5mNOhuTApd+Ol2mY2lx8yQUS/6xEUpsACjsL4JDYBiQLkcTZtu//CtqfqyyaJ1yv3/RCjww7LsazL4+4qMVv/QEYwnuHQQwP4Hm9k7CS3zgnGTKWJU1kq0i5YcKKOnGqnqfCUT+DcBCHfGyAXTS0hYh0VSd5+WeUNTA4E9UhIxEdD8LmUKJfFyXjp1BBWV49bNoj4nSY5X1x7w4tsVnmR/Rq8+ny426hopRUedltbZ2WLU7y6VpxYDv8t5nOKu0MXiSoAN+iJyEZcjqxAjTjjvgChDgPpMxxWcd++1znB50DEQXrPl23gtw1W/ep0oLcUjIFX0qar4GuA5h50OTsRPV3UPcmqcyMgio1hYO0kT/TbIh83fZfmrRNPN1iY7Wp+tOQ==
+message 네
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg3MH0.xa3ezMpAPGuU2qxIQOn6Wpuqimw0dEtTMQmiysOCTSM
+kore message  {"session":{"new":false},"message":{"type":"text","val":"네"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object],[object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"carousel","contents":[{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=1Ew0EP0rZFNmKqoOlaOvRw&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"해당 모델에 맞는 정격 어댑터인지 확인해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"노트북 바닥면에 표기 된 정격 전압/전류와 어댑터에 표기 된 내용이 일치하는지 확인해주세요.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=H1K2SE8fSaW9XKLwtaKQA&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"전원 어댑터 연결 부위를 확인해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"2핀 어댑터인 경우 전원 콘세트와 노트북 연결 부위가 헐겁지 않은지 확인 후 꽉 꽂아주세요. \\n 3핀 어댑터인 경우 전원 콘세트, 전원 케이블과 어댑터, 노트북 연결 부위가 헐겁지 않은지 확인해주세요.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=QvkJqe4eteWLd7C8dBL2A&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"충전이 80%에서 멈추고 100% 충전이 되지 않는 경우","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"배터리를 오래 사용하기 위한 [배터리 수명 연장] 기능이 켜져 있는지 LG Control Center에서 확인해주세요","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=elDaTAFsei93ACeOaalYYQ&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"배터리 수명 확인을 해주세요.","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"[LG Control Center] - [전원관리 설정] 에서 배터리 수명 확인을 할 수 있습니다. \\n 오랜 기간 동안 사용으로 배터리 수명 말기에 충전이 안 될 수 있으며 이 경우 배터리 교체가 필요합니다.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}},{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"image","url":"https://gscs.lge.com/gscs/support/fileupload/downloadFile.do?fileId=4iidthHyX5Tc6EhrRKESg&portalId=P1","size":"full","gravity":"top","backgroundColor":"#ffffff"},{"type":"box","layout":"vertical","contents":[{"type":"box","layout":"vertical","contents":[{"type":"text","text":"배터리 100% 충전되지 않았는데 완전 충전으로 인식으로 [충전 안 함]의 경우","size":"md","color":"#ffffff","weight":"bold","wrap":true}]},{"type":"box","layout":"baseline","contents":[{"type":"text","text":"배터리가 한 번 완전 충전되면 배터리 충전을 멈추고 배터리 용량이 95% 밑으로 떨어져야, 충전을 다시 시작합니다. \\n이는 배터리를 안전하고 효율적으로 사용하기 위함이며, 충전하지 않고 있는 것은 정상입니다.","color":"#ebebeb","size":"xs","flex":0,"wrap":true}]}],"paddingAll":"20px","paddingTop":"18px"}],"styles":{"body":{"backgroundColor":"#00ff0000"}},"backgroundColor":"#1E5A2Ecc","paddingAll":"0px"},"footer":{"layout":"vertical","type":"box","contents":[{"type":"box","layout":"vertical","contents":[{"type":"filler"},{"type":"box","layout":"baseline","contents":[{"type":"filler"},{"type":"icon","url":"https://i.ibb.co/T46HydY/act-com-page-open2.png","size":"md"},{"type":"text","text":"자세히 보기","color":"#ffffff","flex":0,"offsetTop":"-2px","weight":"regular","margin":"sm","action":{"type":"uri","uri":"https://www.lge.co.kr/support/solutions-20152434496829?category=CT50019563&subCategory=CT50019564&cstFlag=Y&topicNm=%EC%A0%84%EC%9B%90&sort=update&page=1&seq=2"}},{"type":"filler"}],"spacing":"sm"},{"type":"filler"}],"borderWidth":"1px","cornerRadius":"4px","spacing":"sm","borderColor":"#ffffff","margin":"md","height":"33px"}],"backgroundColor":"#1E5A2Ecc"}}]}}}',
+      createdOn: '2022-11-25T01:47:52.065Z',
+      messageId: 'ms-a7aad719-e507-58bc-9bad-f8f01a6eff6d'
+    },
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"자가 진단 가이드로 해결이 되지 않으신 경우 고장 접수가 가능합니다.\\n고장 접수를 진행하시겠습니까?","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:47:52.299Z',
+      messageId: 'ms-7d9161a0-90e7-5fcc-875d-bc959e0e092d'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message 네
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABTRwn2FU0+/3DH+R3SO5lXJk4HMZ2krcZ4tnxRmmxC9+SvGV86QIKDwljZiM6/Sr4jfPzTa6BhXdx5UpFGC5ieA/Vgb6QCfEgbb4dC3kVMGsOcxG+d0Pu3YYEZ8Gu/WclM2qC9wNo9IY0vfQdNjp1hLYfaQax9ntUTOlo8NCe4d/vqz1F4l63w6LH+MMX5t6SaZbzZTGHUl95Zdpv+y4NoKHLxw7PJiuE9qjxwgZrgUZMAbFw0nJvcrNGLUPH2cVeTdATltUvsOjYv/mMpbgmIkeDQJDaIVvqUjw77BUSG8YqyTQt9+DYeiZpgUWMn+XNRXKfhJHiRbJ2zHOdubpq91wl+N3TTmQseDKPwnys76WbGZSgrx3T1rLOstMydJtrPBRl/Alt4H7I9a9/wuXEs50LVoGlD4UScl+Lhf14UMFfKIEy0ysX4OW653Wwj/KMYA==
+tokenLineWorks kr1AAABTRwn2FU0+/3DH+R3SO5lXJk4HMZ2krcZ4tnxRmmxC9+SvGV86QIKDwljZiM6/Sr4jfPzTa6BhXdx5UpFGC5ieA/Vgb6QCfEgbb4dC3kVMGsOcxG+d0Pu3YYEZ8Gu/WclM2qC9wNo9IY0vfQdNjp1hLYfaQax9ntUTOlo8NCe4d/vqz1F4l63w6LH+MMX5t6SaZbzZTGHUl95Zdpv+y4NoKHLxw7PJiuE9qjxwgZrgUZMAbFw0nJvcrNGLUPH2cVeTdATltUvsOjYv/mMpbgmIkeDQJDaIVvqUjw77BUSG8YqyTQt9+DYeiZpgUWMn+XNRXKfhJHiRbJ2zHOdubpq91wl+N3TTmQseDKPwnys76WbGZSgrx3T1rLOstMydJtrPBRl/Alt4H7I9a9/wuXEs50LVoGlD4UScl+Lhf14UMFfKIEy0ysX4OW653Wwj/KMYA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABTRwn2FU0+/3DH+R3SO5lXJk4HMZ2krcZ4tnxRmmxC9+SvGV86QIKDwljZiM6/Sr4jfPzTa6BhXdx5UpFGC5ieA/Vgb6QCfEgbb4dC3kVMGsOcxG+d0Pu3YYEZ8Gu/WclM2qC9wNo9IY0vfQdNjp1hLYfaQax9ntUTOlo8NCe4d/vqz1F4l63w6LH+MMX5t6SaZbzZTGHUl95Zdpv+y4NoKHLxw7PJiuE9qjxwgZrgUZMAbFw0nJvcrNGLUPH2cVeTdATltUvsOjYv/mMpbgmIkeDQJDaIVvqUjw77BUSG8YqyTQt9+DYeiZpgUWMn+XNRXKfhJHiRbJ2zHOdubpq91wl+N3TTmQseDKPwnys76WbGZSgrx3T1rLOstMydJtrPBRl/Alt4H7I9a9/wuXEs50LVoGlD4UScl+Lhf14UMFfKIEy0ysX4OW653Wwj/KMYA==
+message 네
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MDg3NX0.faG9ZRP-H8Jkh5_GdxpPgMhFKiwij6OC-yz_iG8SwO8
+kore message  {"session":{"new":false},"message":{"type":"text","val":"네"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"bubble","size":"kilo","body":{"type":"box","layout":"vertical","contents":[{"type":"text","text":"고장 접수를 신청하시겠습니까? \\n■ 신청자 : 박인선 \\n■ 자산번호 : 1 \\n■ 고장내역 : 나야모르지","flex":0,"wrap":true,"size":"sm","color":"#000000"},{"layout":"horizontal","type":"box","contents":[{"action":{"type":"message","label":"예","text":"예"},"type":"button","height":"sm","style":"primary","margin":"sm"},{"action":{"type":"message","label":"아니요","text":"아니요"},"type":"button","height":"sm","style":"secondary","margin":"sm"}],"margin":"sm"}]}}}}',
+      createdOn: '2022-11-25T01:47:56.992Z',
+      messageId: 'ms-f49bbe6c-668d-508a-ab8b-ea36a3e81a9b'
+    }
+  ],
+  _v: 'v2'
+}
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRCZG/Qi4nMuUNx1kSutaYfogxX8BuUGEbY+qYYnUkC3ZM0FHdeYDiGEQwAQYQBfK1DkbE1zbakLsCHnsVxJPivI/vPDFC8shvwihKH4SA66fRgV06IC5UEBvXfHnHiKhPfTh+3C5Q6zrqbUw1lHbiPR+Fyv/PwaaRF56suypj4zzEKOujsrQRzfjA+JD4eTh9apudGq91w1RA2jH14ZBTnIyQOrs6eEcImwKrLwr2MMkVCaGDHndBLsz0Vg37BAvn7rOgDesGGnGckuX5JKyj6ac8GGfSU1zIZ8d9uPA4JVKV/OFi01jQJe47KLqqjMWTmpw5Uc8c6TXq1qsvKjqJU55OfMdsS43lh9dkk6ceoioTXF2JFBjOPXDEEscr4e7jvbUsjtnLtZOhtypA5SeRtROOwnBaVb6HD4yrAD9ZrkQ5csoGUxZea46lK2kn05vcg==
+tokenLineWorks kr1AAABRCZG/Qi4nMuUNx1kSutaYfogxX8BuUGEbY+qYYnUkC3ZM0FHdeYDiGEQwAQYQBfK1DkbE1zbakLsCHnsVxJPivI/vPDFC8shvwihKH4SA66fRgV06IC5UEBvXfHnHiKhPfTh+3C5Q6zrqbUw1lHbiPR+Fyv/PwaaRF56suypj4zzEKOujsrQRzfjA+JD4eTh9apudGq91w1RA2jH14ZBTnIyQOrs6eEcImwKrLwr2MMkVCaGDHndBLsz0Vg37BAvn7rOgDesGGnGckuX5JKyj6ac8GGfSU1zIZ8d9uPA4JVKV/OFi01jQJe47KLqqjMWTmpw5Uc8c6TXq1qsvKjqJU55OfMdsS43lh9dkk6ceoioTXF2JFBjOPXDEEscr4e7jvbUsjtnLtZOhtypA5SeRtROOwnBaVb6HD4yrAD9ZrkQ5csoGUxZea46lK2kn05vcg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRCZG/Qi4nMuUNx1kSutaYfogxX8BuUGEbY+qYYnUkC3ZM0FHdeYDiGEQwAQYQBfK1DkbE1zbakLsCHnsVxJPivI/vPDFC8shvwihKH4SA66fRgV06IC5UEBvXfHnHiKhPfTh+3C5Q6zrqbUw1lHbiPR+Fyv/PwaaRF56suypj4zzEKOujsrQRzfjA+JD4eTh9apudGq91w1RA2jH14ZBTnIyQOrs6eEcImwKrLwr2MMkVCaGDHndBLsz0Vg37BAvn7rOgDesGGnGckuX5JKyj6ac8GGfSU1zIZ8d9uPA4JVKV/OFi01jQJe47KLqqjMWTmpw5Uc8c6TXq1qsvKjqJU55OfMdsS43lh9dkk6ceoioTXF2JFBjOPXDEEscr4e7jvbUsjtnLtZOhtypA5SeRtROOwnBaVb6HD4yrAD9ZrkQ5csoGUxZea46lK2kn05vcg==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MTkxN30.FTAEOuE8luR1gMgpkYr6VwtGEOSc604iWGVfhlLttVc
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-25T02:05:19.056Z',
+      messageId: 'ms-d80249c4-7afe-594b-b7ca-c18aa04b3bcb'
+    }
+  ],
+  _v: 'v2',
+  endReason: 'Cancelled'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSU6ix+7CZRB0POLc9jFav34I+T2w5qfBcDbYGk9I6uYFBX79/EZx4tZSllpHcjYt2hwcMymoRUMAXXY9ymibM5fAx3hAU45DEm21mgzBLGEI/BzuVlW2Hr79tSi/S0dna9e/zWCQorVVrqYiY3gcxTC8PMsv//JnGF6D/ojFn77f7KWJkgGWGYUVfr4mkI9UNRrYxrcPe8TxVLTNZqsvfAvHuzSllLvMKIZ9MMZhAnjQI/X9odFiRfc3FHAXQ6AiSSR0wDALxFDOiP+Bj9+xFv+akqdOVzGUbrEClVj+KVFb2M7ML3qy0tt94ic5kvOUFmWTmeLXct/1J74v2SiwgCXXCsTdf1Ta6rItmCB9v3p68bQF/UpAsH80pDlNZ4uq77K6TfTTIYZJwcAN+PpYiopNEfY4LiUIAC37TIyJqiaMq/oJ36p1zA71BMCCRSxbEA==
+tokenLineWorks kr1AAABSU6ix+7CZRB0POLc9jFav34I+T2w5qfBcDbYGk9I6uYFBX79/EZx4tZSllpHcjYt2hwcMymoRUMAXXY9ymibM5fAx3hAU45DEm21mgzBLGEI/BzuVlW2Hr79tSi/S0dna9e/zWCQorVVrqYiY3gcxTC8PMsv//JnGF6D/ojFn77f7KWJkgGWGYUVfr4mkI9UNRrYxrcPe8TxVLTNZqsvfAvHuzSllLvMKIZ9MMZhAnjQI/X9odFiRfc3FHAXQ6AiSSR0wDALxFDOiP+Bj9+xFv+akqdOVzGUbrEClVj+KVFb2M7ML3qy0tt94ic5kvOUFmWTmeLXct/1J74v2SiwgCXXCsTdf1Ta6rItmCB9v3p68bQF/UpAsH80pDlNZ4uq77K6TfTTIYZJwcAN+PpYiopNEfY4LiUIAC37TIyJqiaMq/oJ36p1zA71BMCCRSxbEA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSU6ix+7CZRB0POLc9jFav34I+T2w5qfBcDbYGk9I6uYFBX79/EZx4tZSllpHcjYt2hwcMymoRUMAXXY9ymibM5fAx3hAU45DEm21mgzBLGEI/BzuVlW2Hr79tSi/S0dna9e/zWCQorVVrqYiY3gcxTC8PMsv//JnGF6D/ojFn77f7KWJkgGWGYUVfr4mkI9UNRrYxrcPe8TxVLTNZqsvfAvHuzSllLvMKIZ9MMZhAnjQI/X9odFiRfc3FHAXQ6AiSSR0wDALxFDOiP+Bj9+xFv+akqdOVzGUbrEClVj+KVFb2M7ML3qy0tt94ic5kvOUFmWTmeLXct/1J74v2SiwgCXXCsTdf1Ta6rItmCB9v3p68bQF/UpAsH80pDlNZ4uq77K6TfTTIYZJwcAN+PpYiopNEfY4LiUIAC37TIyJqiaMq/oJ36p1zA71BMCCRSxbEA==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MTkyMH0.peuvVHZNSWNDhT4YMWW1N25h_MkKhxhxTIHq5LW0K8k
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T02:05:22.112Z',
+      messageId: 'ms-9ba0c911-eb32-546f-a4f3-5c7b53d75700'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSArhXpERtfbwGRCEjYv31Zq3eQpJArlMxXJIO4Jg1phoXI+kBGQlMWOQehUTMDFEMcU/lJO+HUUs3MDiyo4POzQXdY0Bc4IipyBmzT6jnGoocSTek8DktKAs2Nef0VET2j1mYrtU38PF4WW9q6664n36DwF1iBGyOrwOEEQqHgk4yTV5PCoFGu0iPopEkMVCOD5j3dQiEAASOlMKFp2NnJuHJF1b8ovxMTjAVLVJmNFvZ7rEBe6Wlx4OdKmFepugJnGd1YSTNDkSHeYytgW2w7292YTFQMvG24oo4jVNVO1BUzrq9qC7l3am30QbRCN/D80N+F+H7fuXU7er5SiN3RsX+Mbq2EkNvdGWclBUJQF4z/pYkxP56eJBVezeNkzZ7gt4tfsf2BU+r1nzvZgR0hY5LnFIkWcBteWkXTBVhJZHPOxRXKUQTpl3a7SNc0BDBw==
+tokenLineWorks kr1AAABSArhXpERtfbwGRCEjYv31Zq3eQpJArlMxXJIO4Jg1phoXI+kBGQlMWOQehUTMDFEMcU/lJO+HUUs3MDiyo4POzQXdY0Bc4IipyBmzT6jnGoocSTek8DktKAs2Nef0VET2j1mYrtU38PF4WW9q6664n36DwF1iBGyOrwOEEQqHgk4yTV5PCoFGu0iPopEkMVCOD5j3dQiEAASOlMKFp2NnJuHJF1b8ovxMTjAVLVJmNFvZ7rEBe6Wlx4OdKmFepugJnGd1YSTNDkSHeYytgW2w7292YTFQMvG24oo4jVNVO1BUzrq9qC7l3am30QbRCN/D80N+F+H7fuXU7er5SiN3RsX+Mbq2EkNvdGWclBUJQF4z/pYkxP56eJBVezeNkzZ7gt4tfsf2BU+r1nzvZgR0hY5LnFIkWcBteWkXTBVhJZHPOxRXKUQTpl3a7SNc0BDBw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSArhXpERtfbwGRCEjYv31Zq3eQpJArlMxXJIO4Jg1phoXI+kBGQlMWOQehUTMDFEMcU/lJO+HUUs3MDiyo4POzQXdY0Bc4IipyBmzT6jnGoocSTek8DktKAs2Nef0VET2j1mYrtU38PF4WW9q6664n36DwF1iBGyOrwOEEQqHgk4yTV5PCoFGu0iPopEkMVCOD5j3dQiEAASOlMKFp2NnJuHJF1b8ovxMTjAVLVJmNFvZ7rEBe6Wlx4OdKmFepugJnGd1YSTNDkSHeYytgW2w7292YTFQMvG24oo4jVNVO1BUzrq9qC7l3am30QbRCN/D80N+F+H7fuXU7er5SiN3RsX+Mbq2EkNvdGWclBUJQF4z/pYkxP56eJBVezeNkzZ7gt4tfsf2BU+r1nzvZgR0hY5LnFIkWcBteWkXTBVhJZHPOxRXKUQTpl3a7SNc0BDBw==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MTkyNH0.Dtzm8iZNJqZjL2LwpgnXNPOtoulnNtIdJWQkcytS7cA
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '550c818f5d5dcfde74187fd8ab116320' }
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABTQwrQYBtvejg9opyRZ/KsffZFsueP7GRI1KmkkYXsabaD57pssO4JCy0IhRJ0vnLWeReSDxIUBO2A52c8SCr0ZfSQBaksIaww5nnuaCZ1+btkZ+cd90znpR9T2VQIoVfUpsgI4hP0rzHafv7VHadr4wgmm9ksoGw1Rxn70/jl7t/jN/g1KSArmu5Cw4JSkfFkeSO1p4uXLg2EOWa902Z1GgynhPWVP03wnrPDA5SAt2nkF/EtpjtxyXN5kljxB0hSNiSBebJE+jhJRIa+XBhLjTGzn9C/OfHVN3K32lWGvTKWcuyUBV3Pu5CGPnDpUhzgDkOQIIGrEEy7zfM/IKIvz3m1m+Zbuz1/lhxqaCGrhL0rX6j652QVs0U4dCxkowto2n1hq0JBq2nVKWsmfGUTWJvk8Ds6w3Lfokogyy585OiKn5PlBBfDQVfCQIWSlYC5A==
+tokenLineWorks kr1AAABTQwrQYBtvejg9opyRZ/KsffZFsueP7GRI1KmkkYXsabaD57pssO4JCy0IhRJ0vnLWeReSDxIUBO2A52c8SCr0ZfSQBaksIaww5nnuaCZ1+btkZ+cd90znpR9T2VQIoVfUpsgI4hP0rzHafv7VHadr4wgmm9ksoGw1Rxn70/jl7t/jN/g1KSArmu5Cw4JSkfFkeSO1p4uXLg2EOWa902Z1GgynhPWVP03wnrPDA5SAt2nkF/EtpjtxyXN5kljxB0hSNiSBebJE+jhJRIa+XBhLjTGzn9C/OfHVN3K32lWGvTKWcuyUBV3Pu5CGPnDpUhzgDkOQIIGrEEy7zfM/IKIvz3m1m+Zbuz1/lhxqaCGrhL0rX6j652QVs0U4dCxkowto2n1hq0JBq2nVKWsmfGUTWJvk8Ds6w3Lfokogyy585OiKn5PlBBfDQVfCQIWSlYC5A==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABTQwrQYBtvejg9opyRZ/KsffZFsueP7GRI1KmkkYXsabaD57pssO4JCy0IhRJ0vnLWeReSDxIUBO2A52c8SCr0ZfSQBaksIaww5nnuaCZ1+btkZ+cd90znpR9T2VQIoVfUpsgI4hP0rzHafv7VHadr4wgmm9ksoGw1Rxn70/jl7t/jN/g1KSArmu5Cw4JSkfFkeSO1p4uXLg2EOWa902Z1GgynhPWVP03wnrPDA5SAt2nkF/EtpjtxyXN5kljxB0hSNiSBebJE+jhJRIa+XBhLjTGzn9C/OfHVN3K32lWGvTKWcuyUBV3Pu5CGPnDpUhzgDkOQIIGrEEy7zfM/IKIvz3m1m+Zbuz1/lhxqaCGrhL0rX6j652QVs0U4dCxkowto2n1hq0JBq2nVKWsmfGUTWJvk8Ds6w3Lfokogyy585OiKn5PlBBfDQVfCQIWSlYC5A==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjAzOH0.pq72hfVAm_IkUsK9AloxFh9XlMkqEjSfHhinF9ihLF4
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-25T02:07:20.267Z',
+      messageId: 'ms-4f32dc4e-5c0a-5898-8016-ead40e4c710d'
+    }
+  ],
+  _v: 'v2',
+  endReason: 'Cancelled'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSsGx8HwkP4WhYoJBIt3bJPWwzTVwkaR5Liv7si6wiHdaHNrZMphLPfPCm9trNeFxx06sEqs3yu9eS+YvB2TduEWApW1zWRFCTFNOvEMX2pdYeP0XdYi0CvmbhhOxzT2XQdDDLqTbsbJ0XEp7X4+Y8Z0CXon6sXISUdDRUJLeby0C7Ln9WWnwf3n7WcrLQz43PEBnxPeoinThrMx/RCW6DWv7dK6sKp7G8+KKkB1JlsVDbZpfTtJYNGFMgi6cw+s5jvEQRccrL0kUnADSugev04X1IedP3y4zVyFo1xcDbAKJWMzjvCw6gfd5N98WkOK92igwIthwpPO0wYlvuYDAZbjutEAiyS+IiNUbyP9ZAGtXuiWOyWNBqlgdP/El5B4CtoXxTOQyQ56pm/z5R6ghpBcmNLzK/ekOm8qfPOD5yfYNQTyGsUtmguOk9tRAV6x8Kw==
+tokenLineWorks kr1AAABSsGx8HwkP4WhYoJBIt3bJPWwzTVwkaR5Liv7si6wiHdaHNrZMphLPfPCm9trNeFxx06sEqs3yu9eS+YvB2TduEWApW1zWRFCTFNOvEMX2pdYeP0XdYi0CvmbhhOxzT2XQdDDLqTbsbJ0XEp7X4+Y8Z0CXon6sXISUdDRUJLeby0C7Ln9WWnwf3n7WcrLQz43PEBnxPeoinThrMx/RCW6DWv7dK6sKp7G8+KKkB1JlsVDbZpfTtJYNGFMgi6cw+s5jvEQRccrL0kUnADSugev04X1IedP3y4zVyFo1xcDbAKJWMzjvCw6gfd5N98WkOK92igwIthwpPO0wYlvuYDAZbjutEAiyS+IiNUbyP9ZAGtXuiWOyWNBqlgdP/El5B4CtoXxTOQyQ56pm/z5R6ghpBcmNLzK/ekOm8qfPOD5yfYNQTyGsUtmguOk9tRAV6x8Kw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSsGx8HwkP4WhYoJBIt3bJPWwzTVwkaR5Liv7si6wiHdaHNrZMphLPfPCm9trNeFxx06sEqs3yu9eS+YvB2TduEWApW1zWRFCTFNOvEMX2pdYeP0XdYi0CvmbhhOxzT2XQdDDLqTbsbJ0XEp7X4+Y8Z0CXon6sXISUdDRUJLeby0C7Ln9WWnwf3n7WcrLQz43PEBnxPeoinThrMx/RCW6DWv7dK6sKp7G8+KKkB1JlsVDbZpfTtJYNGFMgi6cw+s5jvEQRccrL0kUnADSugev04X1IedP3y4zVyFo1xcDbAKJWMzjvCw6gfd5N98WkOK92igwIthwpPO0wYlvuYDAZbjutEAiyS+IiNUbyP9ZAGtXuiWOyWNBqlgdP/El5B4CtoXxTOQyQ56pm/z5R6ghpBcmNLzK/ekOm8qfPOD5yfYNQTyGsUtmguOk9tRAV6x8Kw==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjA0M30.UGOASOWtnzQ8U61uxn308K8DF-Sg6FN1tpJhduUyEEA
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T02:07:24.495Z',
+      messageId: 'ms-d72ca59f-666d-5574-8852-e91fdb3e4d4d'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRUlFqB6uTum/QaEHnv/Zxs/HHBwjkFVnM/XXizQP3ONbg545NxSyAHsU50SXqKzISXrFSQZkheRnkwv7Mbt+RlA+CYbxFRIGc+N3bLjZuOY1X4omLwuHDOowWkGCpOejBoo/K/8rWDBSXpwX7v6Wz+mVosveNIdhRWVM4LuY4+wzy6wB9LRjiBbw60tR7LM+xgfWbe2gKsGyuRcXHi5+ZH/GD1oiSeWrorVLkNWoD2dXM+gcspcmrXS5d3e/LoSCGlIPAw2eYpmOllJwgYUaG2D5StsBQjemg4OzZM2WmhDux4bMZs5658/xLPIhzXNNxkOW4QlM0xVi/GOc7vlo617JJ5TwKS2vTAF4qPz6AZyASXJgsO/pXLIUFFKSlyev3vFVA4KecZGnWuiXOdlzQpuI/2E3w+bNs/G5O9LqESe+lGjzc70P57vPzA+wVYZkGQ==
+tokenLineWorks kr1AAABRUlFqB6uTum/QaEHnv/Zxs/HHBwjkFVnM/XXizQP3ONbg545NxSyAHsU50SXqKzISXrFSQZkheRnkwv7Mbt+RlA+CYbxFRIGc+N3bLjZuOY1X4omLwuHDOowWkGCpOejBoo/K/8rWDBSXpwX7v6Wz+mVosveNIdhRWVM4LuY4+wzy6wB9LRjiBbw60tR7LM+xgfWbe2gKsGyuRcXHi5+ZH/GD1oiSeWrorVLkNWoD2dXM+gcspcmrXS5d3e/LoSCGlIPAw2eYpmOllJwgYUaG2D5StsBQjemg4OzZM2WmhDux4bMZs5658/xLPIhzXNNxkOW4QlM0xVi/GOc7vlo617JJ5TwKS2vTAF4qPz6AZyASXJgsO/pXLIUFFKSlyev3vFVA4KecZGnWuiXOdlzQpuI/2E3w+bNs/G5O9LqESe+lGjzc70P57vPzA+wVYZkGQ==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRUlFqB6uTum/QaEHnv/Zxs/HHBwjkFVnM/XXizQP3ONbg545NxSyAHsU50SXqKzISXrFSQZkheRnkwv7Mbt+RlA+CYbxFRIGc+N3bLjZuOY1X4omLwuHDOowWkGCpOejBoo/K/8rWDBSXpwX7v6Wz+mVosveNIdhRWVM4LuY4+wzy6wB9LRjiBbw60tR7LM+xgfWbe2gKsGyuRcXHi5+ZH/GD1oiSeWrorVLkNWoD2dXM+gcspcmrXS5d3e/LoSCGlIPAw2eYpmOllJwgYUaG2D5StsBQjemg4OzZM2WmhDux4bMZs5658/xLPIhzXNNxkOW4QlM0xVi/GOc7vlo617JJ5TwKS2vTAF4qPz6AZyASXJgsO/pXLIUFFKSlyev3vFVA4KecZGnWuiXOdlzQpuI/2E3w+bNs/G5O9LqESe+lGjzc70P57vPzA+wVYZkGQ==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjA0Nn0.Fd5XpuwokYJNHV-chIR6fyvTHjwKanz1GRnwpL6q93g
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '2ae77ea46209bc1036eb8b8cedecd169' }
+START
+message discard
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABQkEpv+Dh5OCAxWD3QJKLIt+jo3CL/sZqxkenGBoZ4edkJj3AHSRp7onod6WGol9AMIQCMLaqGC/jOzRFbicJYrWODK7kM/gQ6HKtBYHM0qnlWUbQoGFrOruRe/L8nM3EjkGqA+7S9gseabbXznKwJb4Tf+Lw9Tbkkv9nbCB/kBfr5BfaUnioyw6Oa+Xr/e/83NIRbgatRTehGGCMRBaexngGogHNa7MDZ2V3nTbnzVcBgY5+kAOUmDxShP4tp3oNBX+BzNfbM65uj3ucU6ybmkgYkDe5kimK2tE6ts8xXnmjpLk5AnyPOfqeXxPREvbBjcDHvualRqZJBX6VdI6OUICH6+TBeA3CVBJtv/FAuqcU7evZyxvs69EJ9y5dMsYlQ4M1GXyXdClofD75l6gVyI+vYGLd4uPxPmJwItoeEfMliQgEu9QtusddQDLXiHNX3w==
+tokenLineWorks kr1AAABQkEpv+Dh5OCAxWD3QJKLIt+jo3CL/sZqxkenGBoZ4edkJj3AHSRp7onod6WGol9AMIQCMLaqGC/jOzRFbicJYrWODK7kM/gQ6HKtBYHM0qnlWUbQoGFrOruRe/L8nM3EjkGqA+7S9gseabbXznKwJb4Tf+Lw9Tbkkv9nbCB/kBfr5BfaUnioyw6Oa+Xr/e/83NIRbgatRTehGGCMRBaexngGogHNa7MDZ2V3nTbnzVcBgY5+kAOUmDxShP4tp3oNBX+BzNfbM65uj3ucU6ybmkgYkDe5kimK2tE6ts8xXnmjpLk5AnyPOfqeXxPREvbBjcDHvualRqZJBX6VdI6OUICH6+TBeA3CVBJtv/FAuqcU7evZyxvs69EJ9y5dMsYlQ4M1GXyXdClofD75l6gVyI+vYGLd4uPxPmJwItoeEfMliQgEu9QtusddQDLXiHNX3w==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABQkEpv+Dh5OCAxWD3QJKLIt+jo3CL/sZqxkenGBoZ4edkJj3AHSRp7onod6WGol9AMIQCMLaqGC/jOzRFbicJYrWODK7kM/gQ6HKtBYHM0qnlWUbQoGFrOruRe/L8nM3EjkGqA+7S9gseabbXznKwJb4Tf+Lw9Tbkkv9nbCB/kBfr5BfaUnioyw6Oa+Xr/e/83NIRbgatRTehGGCMRBaexngGogHNa7MDZ2V3nTbnzVcBgY5+kAOUmDxShP4tp3oNBX+BzNfbM65uj3ucU6ybmkgYkDe5kimK2tE6ts8xXnmjpLk5AnyPOfqeXxPREvbBjcDHvualRqZJBX6VdI6OUICH6+TBeA3CVBJtv/FAuqcU7evZyxvs69EJ9y5dMsYlQ4M1GXyXdClofD75l6gVyI+vYGLd4uPxPmJwItoeEfMliQgEu9QtusddQDLXiHNX3w==
+message discard
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjEwM30.ehZMhAXD4Cypfj5H7AoyuI2M-38fL7uS2dcZOtL7-yg
+kore message  {"session":{"new":false},"message":{"type":"text","val":"discard"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다.',
+      createdOn: '2022-11-25T02:08:24.699Z',
+      messageId: 'ms-0202cc83-39fc-530f-a1b9-4d5200dd21a7'
+    }
+  ],
+  _v: 'v2',
+  endReason: 'Cancelled'
+}
+JSON 확인 차 : "좋아, 지금은 그 일을 버리고있다. 준비가되면 언제든지 다시 시작할 수 있습니다."
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRaegtvax8KxUo8QcrYWIfq6nKIwhlcZNLFeTR6Hah2XZa0J5JwOmeZIXK59jI5o7NKqkEH+UIwz3KCAE0FWCp98pJimqNzuc+yfNiOzx9ppPfSjH34eU7j5nSCnVGYvBUU8UO5K+JmH5uzYcJGXQSbwSixkekydqdwEGi93LsKnvrIpxKzPPjXMMddf06oasfPJ0fJ1/4eNjgKidrr+w0UIsJNG4TRKCAupB01HNcN95/4Q1YIjCTKZ89SvymSghWG76cbZMIv2Knabf35ywJrHGOZmCyzDP+R6KDCfGg5/0nHo5MHiZjULF5E3/SSpC9UMdGI8Kii00DEw5OiRklEnVNES5JFz3GJ1oZWWGW0D4RN5Secx1SXbI5F1obMC1q2ugHLcQIK55wQzdt2lm+RzeH15GgTvu54ZYol5aGYO4j8o7DMv5JRor5AB6LtCFYA==
+tokenLineWorks kr1AAABRaegtvax8KxUo8QcrYWIfq6nKIwhlcZNLFeTR6Hah2XZa0J5JwOmeZIXK59jI5o7NKqkEH+UIwz3KCAE0FWCp98pJimqNzuc+yfNiOzx9ppPfSjH34eU7j5nSCnVGYvBUU8UO5K+JmH5uzYcJGXQSbwSixkekydqdwEGi93LsKnvrIpxKzPPjXMMddf06oasfPJ0fJ1/4eNjgKidrr+w0UIsJNG4TRKCAupB01HNcN95/4Q1YIjCTKZ89SvymSghWG76cbZMIv2Knabf35ywJrHGOZmCyzDP+R6KDCfGg5/0nHo5MHiZjULF5E3/SSpC9UMdGI8Kii00DEw5OiRklEnVNES5JFz3GJ1oZWWGW0D4RN5Secx1SXbI5F1obMC1q2ugHLcQIK55wQzdt2lm+RzeH15GgTvu54ZYol5aGYO4j8o7DMv5JRor5AB6LtCFYA==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRaegtvax8KxUo8QcrYWIfq6nKIwhlcZNLFeTR6Hah2XZa0J5JwOmeZIXK59jI5o7NKqkEH+UIwz3KCAE0FWCp98pJimqNzuc+yfNiOzx9ppPfSjH34eU7j5nSCnVGYvBUU8UO5K+JmH5uzYcJGXQSbwSixkekydqdwEGi93LsKnvrIpxKzPPjXMMddf06oasfPJ0fJ1/4eNjgKidrr+w0UIsJNG4TRKCAupB01HNcN95/4Q1YIjCTKZ89SvymSghWG76cbZMIv2Knabf35ywJrHGOZmCyzDP+R6KDCfGg5/0nHo5MHiZjULF5E3/SSpC9UMdGI8Kii00DEw5OiRklEnVNES5JFz3GJ1oZWWGW0D4RN5Secx1SXbI5F1obMC1q2ugHLcQIK55wQzdt2lm+RzeH15GgTvu54ZYol5aGYO4j8o7DMv5JRor5AB6LtCFYA==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjExMX0.Zg0JUecSKhK1UveDQW29PsK7BR-1dpKs9e3zxFNERpQ
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T02:08:32.948Z',
+      messageId: 'ms-987c96b8-eb71-5803-9d6a-c5c5cf80e464'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSVloQ/4j+eFj/O+f0dqPxsVexJ6kZXGwI/VUg3UIVI3gv5IOZbIZ856aprWri4L8WRSWEXMEmBRug47mclTuw2KbPXuflguDSv/z/xEUG9wdLGIOTeN8m0glYkW5qu339WvRQKXlNMucINBSLUj+CDdUP9YIZST+LiC8YqXmKVw5Zh5S5Wf6hg7qjy8+LyrlwTJC44dywO5JzJ0jVRGHJsrtmC9UiaNzkV4gBFa6BVF2xPwQDR9EKWiizb6xK6YaHJsm4e8RDe1zrYKwMC59mLjzt8Yvc1leDwcvV2+7dRxEKyPs76n409aBdHQ5OHoC3tPdNmeMCB2ONSA2ttRz3v7KeGuWFnYDmjaa9B6F4XnPmtQb44TYs3yl37lx86keldzmUO2uXGIJlngAiVhdq7J36FfF/tT1VVOCZ88CHcmv8qi2J9IKpOWQXRxwxT4Fag==
+tokenLineWorks kr1AAABSVloQ/4j+eFj/O+f0dqPxsVexJ6kZXGwI/VUg3UIVI3gv5IOZbIZ856aprWri4L8WRSWEXMEmBRug47mclTuw2KbPXuflguDSv/z/xEUG9wdLGIOTeN8m0glYkW5qu339WvRQKXlNMucINBSLUj+CDdUP9YIZST+LiC8YqXmKVw5Zh5S5Wf6hg7qjy8+LyrlwTJC44dywO5JzJ0jVRGHJsrtmC9UiaNzkV4gBFa6BVF2xPwQDR9EKWiizb6xK6YaHJsm4e8RDe1zrYKwMC59mLjzt8Yvc1leDwcvV2+7dRxEKyPs76n409aBdHQ5OHoC3tPdNmeMCB2ONSA2ttRz3v7KeGuWFnYDmjaa9B6F4XnPmtQb44TYs3yl37lx86keldzmUO2uXGIJlngAiVhdq7J36FfF/tT1VVOCZ88CHcmv8qi2J9IKpOWQXRxwxT4Fag==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSVloQ/4j+eFj/O+f0dqPxsVexJ6kZXGwI/VUg3UIVI3gv5IOZbIZ856aprWri4L8WRSWEXMEmBRug47mclTuw2KbPXuflguDSv/z/xEUG9wdLGIOTeN8m0glYkW5qu339WvRQKXlNMucINBSLUj+CDdUP9YIZST+LiC8YqXmKVw5Zh5S5Wf6hg7qjy8+LyrlwTJC44dywO5JzJ0jVRGHJsrtmC9UiaNzkV4gBFa6BVF2xPwQDR9EKWiizb6xK6YaHJsm4e8RDe1zrYKwMC59mLjzt8Yvc1leDwcvV2+7dRxEKyPs76n409aBdHQ5OHoC3tPdNmeMCB2ONSA2ttRz3v7KeGuWFnYDmjaa9B6F4XnPmtQb44TYs3yl37lx86keldzmUO2uXGIJlngAiVhdq7J36FfF/tT1VVOCZ88CHcmv8qi2J9IKpOWQXRxwxT4Fag==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjExNX0.mz5Le7DL_gxIJOjNgmJ7skF5dj8YPGcn3Dmaf3AEwAo
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+Error happened when sending message:  [AxiosError: Request failed with status code 504] {
+  code: 'ERR_BAD_RESPONSE',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function] },
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json',
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjExNX0.mz5Le7DL_gxIJOjNgmJ7skF5dj8YPGcn3Dmaf3AEwAo',
+      'User-Agent': 'axios/0.27.2',
+      'Content-Length': 179
+    },
+    baseURL: 'https://bots.kore.ai/',
+    method: 'post',
+    url: 'chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+    data: '{"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 179,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'bots.kore.ai',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'bots.kore.ai',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 6333,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object],
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e HTTP/1.1\r\n' +
+      'Accept: application/json\r\n' +
+      'Content-Type: application/json\r\n' +
+      'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjExNX0.mz5Le7DL_gxIJOjNgmJ7skF5dj8YPGcn3Dmaf3AEwAo\r\n' +
+      'User-Agent: axios/0.27.2\r\n' +
+      'Content-Length: 179\r\n' +
+      'Host: bots.kore.ai\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 504,
+      statusMessage: 'Gateway Timeout',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://bots.kore.ai/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'bots.kore.ai',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 179,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://bots.kore.ai/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 504,
+    statusText: 'Gateway Timeout',
+    headers: {
+      date: 'Fri, 25 Nov 2022 02:08:52 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '64',
+      connection: 'close',
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'access-control-allow-methods': 'GET,POST,PUT',
+      'access-control-allow-headers': 'Authorization,Content-Type,X-Requested-With,X-HTTP-Method-Override,X-UserToken,X-Timezone-Offset,smartassist,state,X-Request-Id,bot-language,app-language,accountid',
+      'access-control-allow-credentials': 'true',
+      etag: 'W/"40-VBS28+McsGWSJqE6yj6iRpPFrTM"',
+      'strict-transport-security': 'max-age=31536000; includeSubdomains;'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      env: [Object],
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      baseURL: 'https://bots.kore.ai/',
+      method: 'post',
+      url: 'chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      data: '{"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 179,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e HTTP/1.1\r\n' +
+        'Accept: application/json\r\n' +
+        'Content-Type: application/json\r\n' +
+        'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjExNX0.mz5Le7DL_gxIJOjNgmJ7skF5dj8YPGcn3Dmaf3AEwAo\r\n' +
+        'User-Agent: axios/0.27.2\r\n' +
+        'Content-Length: 179\r\n' +
+        'Host: bots.kore.ai\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'bots.kore.ai',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { errors: [Array] }
+  }
+}
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABTI8/tfPRBKQNFqjxPNkGK0ApiLJ9bNd8GTtPpeDZMaJRkquKzX7OBMyPFwVarUwPZTa2YXznlraz4pAqYzmLwZLLxRIycXMW5seRxjSwNE24lMqmhksvLSZrxZ3G160GrpAls8BQfQyvjJkvM/LDpF/ctiYI94tkSJv6gBbgYYKIprlFGznTCMaqSwM+dNcbAD5v6KLOYOx91gRUv/8eECZ1HGro7EqBpekgR3+j4o5LVXgOuTtKH64ft/VcaG5MKVH7LqOFyHpBn++QMRjlqzmIx794KrkCYi0+uIsqdTpWdU3C1laHVKkadayfZ4xahiRmtJRTxD5TvZE1vGggqEv5BvCXbDkEAR+gUzOJctAKJyo9kopb+/XiVUXgO1wCYPXJCmDYZl51Itc4AXKAQvTSW0fkTeJ/4LyF4rddnaTlB7027EObPNRjwGmBqhetUw==
+tokenLineWorks kr1AAABTI8/tfPRBKQNFqjxPNkGK0ApiLJ9bNd8GTtPpeDZMaJRkquKzX7OBMyPFwVarUwPZTa2YXznlraz4pAqYzmLwZLLxRIycXMW5seRxjSwNE24lMqmhksvLSZrxZ3G160GrpAls8BQfQyvjJkvM/LDpF/ctiYI94tkSJv6gBbgYYKIprlFGznTCMaqSwM+dNcbAD5v6KLOYOx91gRUv/8eECZ1HGro7EqBpekgR3+j4o5LVXgOuTtKH64ft/VcaG5MKVH7LqOFyHpBn++QMRjlqzmIx794KrkCYi0+uIsqdTpWdU3C1laHVKkadayfZ4xahiRmtJRTxD5TvZE1vGggqEv5BvCXbDkEAR+gUzOJctAKJyo9kopb+/XiVUXgO1wCYPXJCmDYZl51Itc4AXKAQvTSW0fkTeJ/4LyF4rddnaTlB7027EObPNRjwGmBqhetUw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABTI8/tfPRBKQNFqjxPNkGK0ApiLJ9bNd8GTtPpeDZMaJRkquKzX7OBMyPFwVarUwPZTa2YXznlraz4pAqYzmLwZLLxRIycXMW5seRxjSwNE24lMqmhksvLSZrxZ3G160GrpAls8BQfQyvjJkvM/LDpF/ctiYI94tkSJv6gBbgYYKIprlFGznTCMaqSwM+dNcbAD5v6KLOYOx91gRUv/8eECZ1HGro7EqBpekgR3+j4o5LVXgOuTtKH64ft/VcaG5MKVH7LqOFyHpBn++QMRjlqzmIx794KrkCYi0+uIsqdTpWdU3C1laHVKkadayfZ4xahiRmtJRTxD5TvZE1vGggqEv5BvCXbDkEAR+gUzOJctAKJyo9kopb+/XiVUXgO1wCYPXJCmDYZl51Itc4AXKAQvTSW0fkTeJ/4LyF4rddnaTlB7027EObPNRjwGmBqhetUw==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjE4OH0.xtOs7VeBWTStCjCm3-WUFBPv_tST3HKcq2rtCcoCWxA
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T02:09:49.715Z',
+      messageId: 'ms-6103d3a9-05fc-5c8c-9a29-c4e392382206'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSPSQ9zvJtvs0mq1t792C8DHCxgUSpRXCjBTuBbvz+SMh90S6CYp8AxD+Yyl3YDk/t0Y8qfQfgLs4IpA4OCR8fOsRke3sA5UsuACfygOCNd06HPVNoFzGn4kS0He2z1KaU7v338iHY7oZ9lUbwKZqXHsjp0EamYg/FlFvknly1W09BoH8hfrNzlrPzWnApKxhAOHYSP15bvnuPaQe3XrL8d2zERk+SdhrLHxdBo2GY5uHunozyvJbcXUcjUKZqvEP6xPTE1+HQY9yj/2qDkiHVCJS/fJZ3f+RR37+RRZgCHLN1j1sS/hBrMkmr9Ct0JP98kAd2pRWAu5q2eUpVKhWyN12cX8q8QOJhtI5IpqLGFNGr0xDpZu0bsiIuL3C6eNTaL9rPK1kDR91sVmf1bTqEyDhfZ+XupMGoqg5rtMjVT1J1qR2MhDWUgXmMPA3axHMYg==
+tokenLineWorks kr1AAABSPSQ9zvJtvs0mq1t792C8DHCxgUSpRXCjBTuBbvz+SMh90S6CYp8AxD+Yyl3YDk/t0Y8qfQfgLs4IpA4OCR8fOsRke3sA5UsuACfygOCNd06HPVNoFzGn4kS0He2z1KaU7v338iHY7oZ9lUbwKZqXHsjp0EamYg/FlFvknly1W09BoH8hfrNzlrPzWnApKxhAOHYSP15bvnuPaQe3XrL8d2zERk+SdhrLHxdBo2GY5uHunozyvJbcXUcjUKZqvEP6xPTE1+HQY9yj/2qDkiHVCJS/fJZ3f+RR37+RRZgCHLN1j1sS/hBrMkmr9Ct0JP98kAd2pRWAu5q2eUpVKhWyN12cX8q8QOJhtI5IpqLGFNGr0xDpZu0bsiIuL3C6eNTaL9rPK1kDR91sVmf1bTqEyDhfZ+XupMGoqg5rtMjVT1J1qR2MhDWUgXmMPA3axHMYg==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSPSQ9zvJtvs0mq1t792C8DHCxgUSpRXCjBTuBbvz+SMh90S6CYp8AxD+Yyl3YDk/t0Y8qfQfgLs4IpA4OCR8fOsRke3sA5UsuACfygOCNd06HPVNoFzGn4kS0He2z1KaU7v338iHY7oZ9lUbwKZqXHsjp0EamYg/FlFvknly1W09BoH8hfrNzlrPzWnApKxhAOHYSP15bvnuPaQe3XrL8d2zERk+SdhrLHxdBo2GY5uHunozyvJbcXUcjUKZqvEP6xPTE1+HQY9yj/2qDkiHVCJS/fJZ3f+RR37+RRZgCHLN1j1sS/hBrMkmr9Ct0JP98kAd2pRWAu5q2eUpVKhWyN12cX8q8QOJhtI5IpqLGFNGr0xDpZu0bsiIuL3C6eNTaL9rPK1kDR91sVmf1bTqEyDhfZ+XupMGoqg5rtMjVT1J1qR2MhDWUgXmMPA3axHMYg==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjE5Mn0.1N2q8wh9rXishZJv4KU2NR2rja78sYrQTb_yoLSeidw
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+Error happened when sending message:  [AxiosError: Request failed with status code 504] {
+  code: 'ERR_BAD_RESPONSE',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function] },
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json',
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjE5Mn0.1N2q8wh9rXishZJv4KU2NR2rja78sYrQTb_yoLSeidw',
+      'User-Agent': 'axios/0.27.2',
+      'Content-Length': 179
+    },
+    baseURL: 'https://bots.kore.ai/',
+    method: 'post',
+    url: 'chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+    data: '{"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 179,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'bots.kore.ai',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'bots.kore.ai',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 6483,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object],
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e HTTP/1.1\r\n' +
+      'Accept: application/json\r\n' +
+      'Content-Type: application/json\r\n' +
+      'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjE5Mn0.1N2q8wh9rXishZJv4KU2NR2rja78sYrQTb_yoLSeidw\r\n' +
+      'User-Agent: axios/0.27.2\r\n' +
+      'Content-Length: 179\r\n' +
+      'Host: bots.kore.ai\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 504,
+      statusMessage: 'Gateway Timeout',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://bots.kore.ai/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'bots.kore.ai',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 179,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://bots.kore.ai/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 504,
+    statusText: 'Gateway Timeout',
+    headers: {
+      date: 'Fri, 25 Nov 2022 02:10:08 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '64',
+      connection: 'close',
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'access-control-allow-methods': 'GET,POST,PUT',
+      'access-control-allow-headers': 'Authorization,Content-Type,X-Requested-With,X-HTTP-Method-Override,X-UserToken,X-Timezone-Offset,smartassist,state,X-Request-Id,bot-language,app-language,accountid',
+      'access-control-allow-credentials': 'true',
+      etag: 'W/"40-VBS28+McsGWSJqE6yj6iRpPFrTM"',
+      'strict-transport-security': 'max-age=31536000; includeSubdomains;'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      env: [Object],
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      baseURL: 'https://bots.kore.ai/',
+      method: 'post',
+      url: 'chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      data: '{"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 179,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e HTTP/1.1\r\n' +
+        'Accept: application/json\r\n' +
+        'Content-Type: application/json\r\n' +
+        'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjE5Mn0.1N2q8wh9rXishZJv4KU2NR2rja78sYrQTb_yoLSeidw\r\n' +
+        'User-Agent: axios/0.27.2\r\n' +
+        'Content-Length: 179\r\n' +
+        'Host: bots.kore.ai\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'bots.kore.ai',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { errors: [Array] }
+  }
+}
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSgrIkNGaiKVXdPF2+/hJ8vbTXRR2kYBIQFQhlbBTWaS/+9BxWTQaTBWXzKl2cHUk+W7vh2JhpxKwXv48kpL1C3dzKnadG/SQxegOe7nsxVa4Uar9BtwtwMxP1iTWl7dg6ABiFz6lcsPl5tECaKBynm4x7r6E1l3kEKz07y9p1eta0JBtoc6+3g47whTXT3qKSCJNvYd1mrFlNFaM0XLkBZKAUbXuwCMFTA0IUKsatrRQj0obrAWTBsngC4T5UxWvk7ljwQZkdWafl9oyN9i7kTi9RFtrD8VTR2vGa6GGUhCb9hbcUK/PdGR/Aavq/5E5YubUo4nQzKjiyP+dLYpmYjEU/XYtoODyBEAdUNlYZi4bXr1OVc/H44aG4oL6eHDhe6aUjuwrHDdo4z/GJVJWGG8N6Cp1Qwbv9ViNg18bSwZq175n/FyY/ZpFo8KQ8Lp1Hw==
+tokenLineWorks kr1AAABSgrIkNGaiKVXdPF2+/hJ8vbTXRR2kYBIQFQhlbBTWaS/+9BxWTQaTBWXzKl2cHUk+W7vh2JhpxKwXv48kpL1C3dzKnadG/SQxegOe7nsxVa4Uar9BtwtwMxP1iTWl7dg6ABiFz6lcsPl5tECaKBynm4x7r6E1l3kEKz07y9p1eta0JBtoc6+3g47whTXT3qKSCJNvYd1mrFlNFaM0XLkBZKAUbXuwCMFTA0IUKsatrRQj0obrAWTBsngC4T5UxWvk7ljwQZkdWafl9oyN9i7kTi9RFtrD8VTR2vGa6GGUhCb9hbcUK/PdGR/Aavq/5E5YubUo4nQzKjiyP+dLYpmYjEU/XYtoODyBEAdUNlYZi4bXr1OVc/H44aG4oL6eHDhe6aUjuwrHDdo4z/GJVJWGG8N6Cp1Qwbv9ViNg18bSwZq175n/FyY/ZpFo8KQ8Lp1Hw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSgrIkNGaiKVXdPF2+/hJ8vbTXRR2kYBIQFQhlbBTWaS/+9BxWTQaTBWXzKl2cHUk+W7vh2JhpxKwXv48kpL1C3dzKnadG/SQxegOe7nsxVa4Uar9BtwtwMxP1iTWl7dg6ABiFz6lcsPl5tECaKBynm4x7r6E1l3kEKz07y9p1eta0JBtoc6+3g47whTXT3qKSCJNvYd1mrFlNFaM0XLkBZKAUbXuwCMFTA0IUKsatrRQj0obrAWTBsngC4T5UxWvk7ljwQZkdWafl9oyN9i7kTi9RFtrD8VTR2vGa6GGUhCb9hbcUK/PdGR/Aavq/5E5YubUo4nQzKjiyP+dLYpmYjEU/XYtoODyBEAdUNlYZi4bXr1OVc/H44aG4oL6eHDhe6aUjuwrHDdo4z/GJVJWGG8N6Cp1Qwbv9ViNg18bSwZq175n/FyY/ZpFo8KQ8Lp1Hw==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjUzNn0.349rf93nay1e0xZ4Zlqdwq_iQmhyh6v7_q2XE9abN8Q
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T02:15:38.358Z',
+      messageId: 'ms-c054e25c-bb5d-5da4-b02b-38c34bb93509'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABSfvOlX6Gm1TMcFqar9rR6U4B/VwQa0LJ5kbZ6M8Hz9cSE05YYwxJNpENfyCXleuIQU/Q5mID45sdEPJy5TTskQ7sjvpj/su1suoQumlj1tve7WAmw0IVPv/QuULTOigGo0T1S4P8Hgu0lEeceRBUEAoFgWiZXj5z7guLjicZbFCTt+NOoVb3TzPG2QJv9i6eJDiwxtCq2JwslM5Pbax6JlGe2BRGFCBh9ue1cqOahSF7Fek5/W22Jv7bBIqROlsYEpVkLh+Wonof4l5aqyWC3sOdeDYoIHG0kXrFzAb24hCNzV9YqK1BAQbgFiU/eW7Rl8nTeXneyVSBFm9xQ9BzSz80N38yuIKPrdj88yBEjTOvFg9IwHpOKb3LiQXKJqZVoz9vY4uTCZH8H1U3gUTi3Sj22mW3S13e6PIyOjwwQuTwCnSjdmChPTICNF+eqZ/H6A==
+tokenLineWorks kr1AAABSfvOlX6Gm1TMcFqar9rR6U4B/VwQa0LJ5kbZ6M8Hz9cSE05YYwxJNpENfyCXleuIQU/Q5mID45sdEPJy5TTskQ7sjvpj/su1suoQumlj1tve7WAmw0IVPv/QuULTOigGo0T1S4P8Hgu0lEeceRBUEAoFgWiZXj5z7guLjicZbFCTt+NOoVb3TzPG2QJv9i6eJDiwxtCq2JwslM5Pbax6JlGe2BRGFCBh9ue1cqOahSF7Fek5/W22Jv7bBIqROlsYEpVkLh+Wonof4l5aqyWC3sOdeDYoIHG0kXrFzAb24hCNzV9YqK1BAQbgFiU/eW7Rl8nTeXneyVSBFm9xQ9BzSz80N38yuIKPrdj88yBEjTOvFg9IwHpOKb3LiQXKJqZVoz9vY4uTCZH8H1U3gUTi3Sj22mW3S13e6PIyOjwwQuTwCnSjdmChPTICNF+eqZ/H6A==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABSfvOlX6Gm1TMcFqar9rR6U4B/VwQa0LJ5kbZ6M8Hz9cSE05YYwxJNpENfyCXleuIQU/Q5mID45sdEPJy5TTskQ7sjvpj/su1suoQumlj1tve7WAmw0IVPv/QuULTOigGo0T1S4P8Hgu0lEeceRBUEAoFgWiZXj5z7guLjicZbFCTt+NOoVb3TzPG2QJv9i6eJDiwxtCq2JwslM5Pbax6JlGe2BRGFCBh9ue1cqOahSF7Fek5/W22Jv7bBIqROlsYEpVkLh+Wonof4l5aqyWC3sOdeDYoIHG0kXrFzAb24hCNzV9YqK1BAQbgFiU/eW7Rl8nTeXneyVSBFm9xQ9BzSz80N38yuIKPrdj88yBEjTOvFg9IwHpOKb3LiQXKJqZVoz9vY4uTCZH8H1U3gUTi3Sj22mW3S13e6PIyOjwwQuTwCnSjdmChPTICNF+eqZ/H6A==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0MjUzOX0.C6_Ix9Edq8NbqS_7fslS0bD55yIchA6BlMh8gOIXK-w
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object],[object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '현재 보유하고 계신 자산리스트입니다.\n고장 접수하고 싶으신 자산을 선택해주세요.',
+      createdOn: '2022-11-25T02:15:41.095Z',
+      messageId: 'ms-7fa0277f-d240-5e96-93ea-2e0d13359ca5'
+    },
+    {
+      type: 'text',
+      val: '{"content":{"type":"flex","altText":"Hello","i18nAltTexts":[{"language":"ja_JP","altText":"こんにちは"},{"language":"ko_KR","altText":"안녕하세요"}],"contents":{"type":"carousel"}}}',
+      createdOn: '2022-11-25T02:15:41.376Z',
+      messageId: 'ms-659a5ade-ac09-58de-8587-69633de57e6c'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "현재 보유하고 계신 자산리스트입니다.\n고장 접수하고 싶으신 자산을 선택해주세요."
+network error
+START
+message 고장 접수
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABRmhSdKSc6TQbumdTWP2yjoKkUGFAA4j9BjJg5Z9ejPjkikdR1dEzroVevN35ZbSFQy0oaShlTq0gtHpd/ReXoTO6NmVFBkDOD6IQVxqNptMB/m2d2Mie+c9fGOChWpWX06lYJ5tHUSOTEHYp5LtVWSJGcOpULr3Gq2MnbZ+PdEnrtuAfvnVtemgo/ONaxXq4BKfrHJPQHF1ZbWOmkdkRWbtEXV+RcqmSQnFGfccuI4yKVVQHq95Q6BzWHU7AzmcMJxYgXSiPzSHWvKZDAIfnqjcsnLDWRdMYy+KsnVPDajlBueAQUt75hYlMvKFPtH5LHww6Z2ZL9BuE4igQJPKD+QWCQ1mZrfyG/zQJ6FhHK78kRgHRzozMVswUQCD8u2lQWPxNrFMgKk9x3YUdX2Yx6c/O3BN1Pi8Pz0dlss8wRw145iVGe50QeW9dZCduJ8Yn2w==
+tokenLineWorks kr1AAABRmhSdKSc6TQbumdTWP2yjoKkUGFAA4j9BjJg5Z9ejPjkikdR1dEzroVevN35ZbSFQy0oaShlTq0gtHpd/ReXoTO6NmVFBkDOD6IQVxqNptMB/m2d2Mie+c9fGOChWpWX06lYJ5tHUSOTEHYp5LtVWSJGcOpULr3Gq2MnbZ+PdEnrtuAfvnVtemgo/ONaxXq4BKfrHJPQHF1ZbWOmkdkRWbtEXV+RcqmSQnFGfccuI4yKVVQHq95Q6BzWHU7AzmcMJxYgXSiPzSHWvKZDAIfnqjcsnLDWRdMYy+KsnVPDajlBueAQUt75hYlMvKFPtH5LHww6Z2ZL9BuE4igQJPKD+QWCQ1mZrfyG/zQJ6FhHK78kRgHRzozMVswUQCD8u2lQWPxNrFMgKk9x3YUdX2Yx6c/O3BN1Pi8Pz0dlss8wRw145iVGe50QeW9dZCduJ8Yn2w==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABRmhSdKSc6TQbumdTWP2yjoKkUGFAA4j9BjJg5Z9ejPjkikdR1dEzroVevN35ZbSFQy0oaShlTq0gtHpd/ReXoTO6NmVFBkDOD6IQVxqNptMB/m2d2Mie+c9fGOChWpWX06lYJ5tHUSOTEHYp5LtVWSJGcOpULr3Gq2MnbZ+PdEnrtuAfvnVtemgo/ONaxXq4BKfrHJPQHF1ZbWOmkdkRWbtEXV+RcqmSQnFGfccuI4yKVVQHq95Q6BzWHU7AzmcMJxYgXSiPzSHWvKZDAIfnqjcsnLDWRdMYy+KsnVPDajlBueAQUt75hYlMvKFPtH5LHww6Z2ZL9BuE4igQJPKD+QWCQ1mZrfyG/zQJ6FhHK78kRgHRzozMVswUQCD8u2lQWPxNrFMgKk9x3YUdX2Yx6c/O3BN1Pi8Pz0dlss8wRw145iVGe50QeW9dZCduJ8Yn2w==
+message 고장 접수
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0NzA2OX0.415A8kSYZuUlFetsX_hUsPguvwewpnYMyTDpPJwNpQE
+kore message  {"session":{"new":false},"message":{"type":"text","val":"고장 접수"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : [object Object]
+data:  {
+  data: [
+    {
+      type: 'text',
+      val: '고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n' +
+        '자산 조회를 위한 검색 기준을 입력해주세요.\n' +
+        '자산은 사용자명 또는 팀명으로 관리됩니다.',
+      createdOn: '2022-11-25T03:31:10.949Z',
+      messageId: 'ms-aa05b777-6e81-5735-8277-fffb4fdc05a2'
+    }
+  ],
+  _v: 'v2'
+}
+JSON 확인 차 : "고장 접수 진행을 위해 현재 보유하고 계신 자산을 조회 합니다.\n자산 조회를 위한 검색 기준을 입력해주세요.\n자산은 사용자명 또는 팀명으로 관리됩니다."
+START
+message 전기실
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+accessToken kr1AAABQhH9+JrD92xAlSqQ8Ei3QAn4s60JhGXLFttnKMIINm5xtxrfM867byjEeOnRE5bvcYC/R27nzXZrkWO07YRcCWugauMW7Ttwrl9XEBfa8s/b6NAc9BXgfk2MmIghmuH8XpL0fw9/SB6PqdLOBD0d9qmjwxzE3nEV0yvqRRAJWSPqW8DWOQSKmY4L0D3WZy59YKu+/VgG0Wc3nv5p0cTq7+ec4ZuBGW+0zlGgRQeDh12HZJDSPsGS6IJQ+AfOTD0VvgtjVr4GLwfwR6+fF91oq8F5bzYyKBVOZMKOvhKcM+uaGtARrF9gU3RfeVMAFKetvRK4nZzKEFmn17RIFkaZECRxU012AIwNh5UM2rYO+ROsOLx0QXtup/jmUjaoF1BvjsfaeZGwqK3I8WAB9noUKMVCo3m/PoBE9VXALZC5vV4NV8PH8groVn0hgir3zDbXBw==
+tokenLineWorks kr1AAABQhH9+JrD92xAlSqQ8Ei3QAn4s60JhGXLFttnKMIINm5xtxrfM867byjEeOnRE5bvcYC/R27nzXZrkWO07YRcCWugauMW7Ttwrl9XEBfa8s/b6NAc9BXgfk2MmIghmuH8XpL0fw9/SB6PqdLOBD0d9qmjwxzE3nEV0yvqRRAJWSPqW8DWOQSKmY4L0D3WZy59YKu+/VgG0Wc3nv5p0cTq7+ec4ZuBGW+0zlGgRQeDh12HZJDSPsGS6IJQ+AfOTD0VvgtjVr4GLwfwR6+fF91oq8F5bzYyKBVOZMKOvhKcM+uaGtARrF9gU3RfeVMAFKetvRK4nZzKEFmn17RIFkaZECRxU012AIwNh5UM2rYO+ROsOLx0QXtup/jmUjaoF1BvjsfaeZGwqK3I8WAB9noUKMVCo3m/PoBE9VXALZC5vV4NV8PH8groVn0hgir3zDbXBw==
+userId 9d51469a-8848-4bbf-1652-03e69f3ca5fe
+token kr1AAABQhH9+JrD92xAlSqQ8Ei3QAn4s60JhGXLFttnKMIINm5xtxrfM867byjEeOnRE5bvcYC/R27nzXZrkWO07YRcCWugauMW7Ttwrl9XEBfa8s/b6NAc9BXgfk2MmIghmuH8XpL0fw9/SB6PqdLOBD0d9qmjwxzE3nEV0yvqRRAJWSPqW8DWOQSKmY4L0D3WZy59YKu+/VgG0Wc3nv5p0cTq7+ec4ZuBGW+0zlGgRQeDh12HZJDSPsGS6IJQ+AfOTD0VvgtjVr4GLwfwR6+fF91oq8F5bzYyKBVOZMKOvhKcM+uaGtARrF9gU3RfeVMAFKetvRK4nZzKEFmn17RIFkaZECRxU012AIwNh5UM2rYO+ROsOLx0QXtup/jmUjaoF1BvjsfaeZGwqK3I8WAB9noUKMVCo3m/PoBE9VXALZC5vV4NV8PH8groVn0hgir3zDbXBw==
+message 전기실
+Data:  chatbot/v2/webhook/st-48dc455f-ab9e-5f6d-900a-f731f3cc4c4e
+Token kore:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZDUxNDY5YS04ODQ4LTRiYmYtMTY1Mi0wM2U2OWYzY2E1ZmUiLCJpc3MiOiJjcy0wZWYzNGRkOC04M2Y2LTViNTQtYmIxYy1kODBjOGZmN2IzZmMiLCJhbGdvcml0aG0iOiJIUzI1NiIsImlhdCI6MTY2OTM0NzA3NX0.Y08IVuNJROqxtP5kSYO3jrLKEfmxxAJK8VQMbOLvrb0
+kore message  {"session":{"new":false},"message":{"type":"text","val":"전기실"},"from":{"id":"9d51469a-8848-4bbf-1652-03e69f3ca5fe"},"mergeIdentity":true,"preferredChannelForResponse":"rtm"}
+response : 
+data:  { data: [], _v: 'v2', pollId: '51715184a148ee135af57fa3d6fda846' }
+error Command failed with signal "SIGKILL".
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.

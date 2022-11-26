@@ -7,7 +7,7 @@
 import { Response, Request } from 'express'
 import jwt from 'jsonwebtoken'
 import dotenv from 'dotenv'
-import queryString from 'queryString'
+import queryString from 'querystring'
 import environment from '../configs/environment'
 import generateToken from '../utils/jwtGenerate'
 import axios, { AxiosInstance } from 'axios'
