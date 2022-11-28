@@ -28,8 +28,8 @@ export default function templateNaver(
             ).then(() => {
                 resolve("complate")
             })
-            .catch(() => {
-                reject("network error")
+            .catch((error) => {
+                reject(error)
             })
         })
     } catch (error) {

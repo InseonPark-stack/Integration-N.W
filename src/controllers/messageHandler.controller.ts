@@ -18,6 +18,7 @@ import templateCarousel from '../services/templateCarousel'
 import templateCarouselImages from '../services/templateCarouselImage'
 import templateList from '../services/templateList'
 import { arrayBuffer } from 'stream/consumers'
+import { rejects } from 'assert'
 dotenv.config()
 
 declare let process: {
@@ -170,7 +171,7 @@ class CallBackLineWorks {
                         }else{
                             const format = JSON.stringify(val)
                             console.log('JSON 확인 차 : ' + format)
-                        }
+                        }                        
                         if (val.content && val.content.type === 'flex'){
                             await templateNaver(val, userId, token)
                         }
@@ -183,7 +184,31 @@ class CallBackLineWorks {
                 }
             }
 
-            solve(response)
+            let pollId = data.data.pollId
+
+            if(pollId){
+                let result : any
+                let index = 1;
+                
+                setTimeout(async () => {
+                    const pollData = await this.axiosKore.get(url + "/poll/" + pollId, {
+                        headers: {
+                            Authorization: `Bearer ${tokenKore}`,
+                        }
+                    })
+                    result = pollData;
+                    console.log('result : ' , result.data)   
+
+                    console.log(result.data.data) 
+                    solve(result.data.data)
+                }, 1000 * index)
+                
+            }else{
+                solve(response)
+            }
+
+            
+
 
             // const delay = async(data: any) => {
             //     return new Promise(async () => {
